@@ -15,13 +15,14 @@
     🌱 Aprofundando conhecimentos em Django, Python com IA, Flutter, Docker e JavaScript.<br>
     🤝 Buscando sempre evoluir e colaborar em projetos desafiadores!
   </p>
-  
+</div>
+
   <p>
     <a href="https://meuportifolio25.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Meu_Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"/>
     </a>
   </p>
-</div>
+
 
 ---
 
