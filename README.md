@@ -8,13 +8,16 @@
 
 <div align="center">
   <h3>Desenvolvedor Full Stack Python | Entusiasta de Tecnologia</h3>
-  
-  <p>
-    🚀 Apaixonado por transformar ideias em soluções digitais e criar experiências inovadoras.<br>
-    💡 Atualmente explorando novas tecnologias em Inteligência Artificial e Cloud.<br>
-    🌱 Aprofundando conhecimentos em Django, Python com IA, Flutter, Docker e JavaScript.<br>
-    🤝 Buscando sempre evoluir e colaborar em projetos desafiadores!
-  </p>
+
+  ---
+
+### 🧠 Sobre mim
+- 🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)**  
+- 💡 Atualmente explorando novas tecnologias em Inteligência Artificial e Cloud.**  
+- 🎮 Gamer nas horas vagas — também conhecido como **Ghost**   
+- 🤝 Buscando sempre evoluir e colaborar em projetos desafiadores! 
+
+---
   
   <p>
     <a href="https://meuportifolio25.netlify.app/" target="_blank">
