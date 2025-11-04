@@ -22,8 +22,8 @@
   <p>
     <a href="https://victorkaue.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Meu_Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"/>
-      (Está em desenvolvimento)
     </a>
+    (Está em desenvolvimento)
   </p>
 </div>
 
