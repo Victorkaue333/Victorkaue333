@@ -1,10 +1,6 @@
 
-<!-- ===================== INTRO ===================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
-</p>
 
-<h1 align="center">Hello, my friend! Prazer, eu me chamo Victor Kauê, mas pode me chamar de KAUÊ 👋</h1>
+<h1>Olá, prazer, eu me chamo Victor Kauê, mas pode me chamar de KAUÊ 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL&color=0077B5&style=for-the-badge" alt="visualizações do perfil" />
