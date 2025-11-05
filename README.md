@@ -1,7 +1,3 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://i.imgur.com/D3vw7yt.png" alt="Banner Victor Kauê" width="100%"/>
-</p>
 
 <!-- ===================== INTRO ===================== -->
 <p align="center">
