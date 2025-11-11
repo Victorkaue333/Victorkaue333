@@ -101,7 +101,7 @@ Também contribui como desenvolvedor Full-Stack Django e com melhorias na experi
   <br><br>
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
 </div>
----
+
 
 <div align="center">
   <h3 align="center">🌐 Conecte-se comigo!</h3>
