@@ -48,7 +48,7 @@ Participei no **desenvolvimento da plataforma digital educacional**, contribuind
 
 ---
 
-#### 🧠 **NTIDI -  **  
+#### 🧠 **NTIDI  **  
 A **NTIDI** é uma empresa especializada em **soluções de software personalizadas**, oferecendo serviços em **Segurança, Inteligência Artificial, Cloud e Desenvolvimento**.  
 Atuei na **criação do zero e manutenção de aplicações web**, integração de APIs e no aprimoramento de pipelines técnicos para garantir **qualidade e escalabilidade** das entregas. 
 Outrossim, contribuí como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário. 
