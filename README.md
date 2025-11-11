@@ -28,7 +28,7 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
 <div align="center">
   <p>
     <a href="https://victorkaue.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Meu_Portfólio-40e0d0?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"/>
+  <img src="https://img.shields.io/badge/Meu_Portfólio-4fd1ff?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"/>
     </a>
   </p>
   (🚧 Em desenvolvimento 🚧)
