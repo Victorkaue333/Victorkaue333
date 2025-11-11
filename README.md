@@ -97,7 +97,8 @@ Também contribui como desenvolvedor Full-Stack Django e com melhorias na experi
   <h3 align="center">📊 Minhas estatísticas no GitHub:</h3>
   <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
   <!-- Substituindo o gráfico de linguagens usado anteriormente pelo novo (imagem 1) -->
-  <img height="180" align="center" alt="Most Used Languages" src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/main/img/most-used-langs.png"/>
+  <img height="180" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=10&theme=ayu-mirage"/>
+  
   <br><br>
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
 </div>
