@@ -1,6 +1,6 @@
 
 
-<h1>Olá, prazer, eu me chamo Victor Kauê, mas pode me chamar de KAUÊ 👋</h1>
+<h1>Olá, prazer, eu me chamo Victor Kauê!👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL&color=0077B5&style=for-the-badge" alt="visualizações do perfil" />
@@ -11,13 +11,18 @@
 <div>
   <h3 align="center">💻 Desenvolvedor Full Stack Python | Entusiasta de Tecnologia ☁️</h3>
 
-  ---
+---
 
-### 🧠 Sobre mim
-- 🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)**  
-- 💡 Atualmente explorando novas tecnologias em **Inteligência Artificial** e **Cloud Computing**  
-- 🎮 Gamer nas horas vagas — também conhecido como **Ghost**   
-- 🤝 Buscando sempre evoluir e colaborar em projetos desafiadores! 
+### 🚀 Minha jornada
+
+Meu nome é Victor Kauê, mas pode me chamar de **KAUÊ** 😎  
+Sou apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra “ver como funcionava” (e às vezes sobravam peças 😂).
+
+Hoje, sou **Desenvolvedor Full Stack Python**, com um pezinho em **IA, Cloud e Segurança Digital**.  
+Adoro criar soluções que **simplifiquem a vida das pessoas** e mostrar que tecnologia não precisa ser um bicho de sete cabeças.  
+
+Sempre estou estudando algo novo, porque acredito que **aprender nunca é demais**.  
+E quando não estou codando, provavelmente estou jogando, ouvindo música ou testando ideias aleatórias que surgem às 2 da manhã 💭.
 
 ---
 </div>
@@ -30,7 +35,40 @@
   </p>
   (🚧 Em desenvolvimento 🚧)
 </div>
+---
+---
 
+<h3 align="center">🚀 Projetos em que participei</h3>
+
+<p align="center">
+  <a href="https://grefloresta.com.br/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GreFloresta&repo=GreFloresta-App&theme=ayu-mirage" />
+  </a>
+  <a href="https://www.ntidi.com.br/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NTIDI&repo=NTIDI-Platform&theme=ayu-mirage" />
+  </a>
+</p>
+
+---
+
+#### 🏫 **SIGREF - Sistema Integrado de Gerência Regional de Educação de Floresta**  
+O **SIGREF** é uma iniciativa voltada para à **educação e comunição entre as escola da Região de Itaparica para a **GreFloresta**, com foco em conectar os indivíduos e sanar problemas como a falta de comunicação.  
+Participei no **desenvolvimento da plataforma digital educacional**, contribuindo como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
+🔗 [Acesse o site](https://grefloresta.com.br/)
+
+---
+
+#### 🧠 **NTIDI -  **  
+A **NTIDI** é uma empresa especializada em **soluções de software personalizadas**, oferecendo serviços em **Segurança, Inteligência Artificial, Cloud e Desenvolvimento**.  
+Atuei na **criação do zero e manutenção de aplicações web**, integração de APIs e no aprimoramento de pipelines técnicos para garantir **qualidade e escalabilidade** das entregas. 
+Outrossim, contribuí como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário. 
+🔗 [Acesse o site](https://www.ntidi.com.br/)
+
+---
+
+<p align="center">
+  <i>💚 Cada projeto representa uma etapa essencial da minha trajetória — aprendizado, colaboração e impacto real através da tecnologia.</i>
+</p>
 
 ---
 
