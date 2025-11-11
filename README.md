@@ -24,7 +24,7 @@ Adoro criar soluções que **simplifiquem a vida das pessoas** e mostrar que tec
 Sempre estou estudando algo novo, porque acredito que **aprender nunca é demais**.  
 E quando não estou codando, provavelmente estou jogando, ouvindo música ou testando ideias aleatórias que surgem às 2 da manhã 💭.
 
----
+
 </div>
 
 <div align="center">
