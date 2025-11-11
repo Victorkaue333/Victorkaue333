@@ -1,6 +1,8 @@
 ![Victor Alves Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Alves&textBg=false&section=header&reversal=true)
 
-<h1 align="center">Olá, prazer, eu me chamo <strong>Victor Kauê</strong>! <span style="font-size:2rem;">👋</span></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFD600&center=true&vCenter=true&width=700&lines=Olá%2C+prazer%2C+eu+me+chamo+Victor+Kauê!+%F0%9F%91%8B" alt="Typing SVG"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=VISUALIZAÇÕES+DO+PERFIL&color=0077B5&style=for-the-badge" alt="visualizações do perfil" />
