@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center">
+<div>
   <h3>💻 Desenvolvedor Full Stack Python | Entusiasta de Tecnologia ☁️</h3>
 
   ---
@@ -20,14 +20,17 @@
 - 🤝 Buscando sempre evoluir e colaborar em projetos desafiadores! 
 
 ---
+</div>
 
-  <p>
+<div align="center">
+  <p >
     <a href="https://victorkaue.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Meu_Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"/>
     </a>
   </p>
   (🚧 Em desenvolvimento 🚧)
 </div>
+
 
 ---
 
