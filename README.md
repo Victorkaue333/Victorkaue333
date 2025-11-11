@@ -35,18 +35,8 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
   </p>
   (🚧 Em desenvolvimento 🚧)
 </div>
----
----
 
 <h3 align="center">🚀 Projetos em que participei</h3>
-
-<p align="center">
-  <a href="https://grefloresta.com.br/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GreFloresta&repo=GreFloresta-App&theme=ayu-mirage" />
-  </a>
-  <a href="https://www.ntidi.com.br/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NTIDI&repo=NTIDI-Platform&theme=ayu-mirage" />
-  </a>
 </p>
 
 ---
