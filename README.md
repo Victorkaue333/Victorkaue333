@@ -99,7 +99,7 @@ Também contribui como desenvolvedor Full-Stack Django e com melhorias na experi
   <!-- Substituindo o gráfico de linguagens usado anteriormente pelo novo (imagem 1) -->
   <img height="180" align="center" alt="Most Used Languages" src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/main/img/most-used-langs.png"/>
   <br><br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=radical" />
 </div>
 
 ---
