@@ -1,131 +1,114 @@
-![Victor Alves Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Alves&textBg=false&section=header&reversal=true)
-
-<h1>Olá, prazer, eu me chamo Victor Kauê!👋</h1>
-
+<!-- ANIMAÇÃO HEADER COM SVG/CSS (EXCLUSIVO) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=VISUALIZAÇÕES+DO+PERFIL&color=0077B5&style=for-the-badge" alt="visualizações do perfil" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=1000&color=0EAAAA&center=true&vCenter=true&width=800&height=80&lines=Oi%2C+eu+sou+o+Victor+Kau%C3%AA+Alves%21;Desenvolvedor+Full+Stack+Python+que+pensa+fora+da+caixa!;Let's+level+up+the+world+with+tech+%F0%9F%95%B8%EF%B8%8F" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=🚀%20Bem-vindo(a)%20%E2%80%A2%20Welcome!%20%E2%9A%A1&fontSize=45&animation=twinkling"/>
 </p>
 
+<!-- ÁREA DE SAUDAÇÃO INOVADORA -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/main/img/avatar-art-v3.gif" width="160px" alt="Victor Avatar"/>
+</p>
+<h1 align="center">Explorador de Tecnologias <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/main/img/glass-blue.gif" width="26"/></h1>
+
+<p align="center"><b>
+  "Código é poesia, criatividade é meu algoritmo."
+</b></p>
+
 ---
 
-<div>
-  <h3 align="center">💻 Desenvolvedor Full Stack Python | Entusiasta de Tecnologia ☁️</h3>
-</div>
-
----
-
-### 🚀 Minha jornada
-
-Meu nome é Victor Kauê, mas pode me chamar de **KAUÊ** 😎  
-Sou apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra “ver como funcionava” (e às vezes sobravam peças 😂).
-
-Hoje, sou **Desenvolvedor Full Stack Python**, com um pezinho em **IA, Cloud e Segurança Digital**.  
-Adoro criar soluções que **simplificam a vida das pessoas** e mostrar que tecnologia não precisa ser um bicho de sete cabeças.
-
-Sempre estou estudando algo novo, porque acredito que **aprender nunca é demais**.  
-E quando não estou codando, provavelmente estou jogando, ouvindo música ou testando ideias aleatórias que surgem às 2 da manhã 💭.
-
+<!-- SOBRE - INOVAÇÃO E HUMANIDADE -->
 <div align="center">
-  <p>
-    <a href="https://victorkaue.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Meu_Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"/>
-    </a>
-  </p>
-  (🚧 Em desenvolvimento 🚧)
+
+👾 <strong>KAUÊ = código, criatividade, cultura pop, curiosidade!</strong>  
+🧠 Autodidata em IA, Cloud, Segurança e amante de gadgets<br>
+💡 Coloco arte, humor e experiência em cada entrega<br>
+🎨 Viciado em aprender, remixar ideias e hackear padrões<br>
+🗺️ Minha bússola tech: <b>resolver problemas reais + inovar sempre</b>  
+🎲 Fora do dev: games, música retrô, pixel art e buscas aleatórias à 2h da manhã  
+<br>
+
+<!-- PORTFÓLIO EM DESTAQUE -->
+<a href="https://victorkaue.netlify.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/main/img/portfolio-btn-animated.svg" width="180" alt="Portfólio"/>
+</a>
+<br>
+<sub>🚧 NOVA VERSÃO DO PORTFÓLIO A CAMINHO... 🦑</sub>
 </div>
 
----
-
-<h3 align="center">🚀 Projetos em que participei</h3>
-
-#### 🏫 **SIGREF - Sistema Integrado de Gerência Regional de Educação de Floresta**  
-O **SIGREF** é uma iniciativa voltada para a **educação e comunicação** entre as escolas da Região de Itaparica para a **GreFloresta**, com foco em conectar os indivíduos e sanar problemas como a falta de integração.
-Participei no **desenvolvimento da plataforma digital educacional**, contribuindo como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
-🔗 [Acesse o site](https://grefloresta.com.br/)
 
 ---
 
-#### 🧠 **NTIDI**  
-A **NTIDI** é uma empresa especializada em **soluções de software personalizadas**, oferecendo serviços em **Segurança, Inteligência Artificial, Cloud e Desenvolvimento**.  
-Atuei na **criação do zero e manutenção de aplicações web**, integração de APIs e no aprimoramento de pipelines técnicos para garantir **qualidade e escalabilidade** das entregas.  
-Também contribui como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
-🔗 [Acesse o site](https://www.ntidi.com.br/)
+<!-- PROJETOS IMPACTANTES MAIS VISUAIS -->
+<h2 align="center">Projetos que mudaram a rota 🚦</h2>
+
+<table width="100%">
+  <tr>
+    <td width="45%">
+      <b>🏫 SIGREF</b><br>
+      Plataforma de integração educacional e inovação nas escolas da GreFloresta.<br>
+      <i>Lead Full-Stack Django, foco em UX &mind; alunos & professores conectados</i><br>
+      <a href="https://grefloresta.com.br/" target="_blank">Acesse e explore</a>
+    </td>
+    <td width="10%" align="center">
+      <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/main/img/sigref-icon.png" width="60" />
+    </td>
+    <td width="45%">
+      <b>🤖 NTIDI</b><br>
+      Construção de apps do zero, integrações seguras IA & Cloud.<br>
+      <i>Stack: Python, APIs, microsserviços e zero tédio!</i><br>
+      <a href="https://www.ntidi.com.br/" target="_blank">Site oficial</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
+<!-- TECNOLOGIAS E FERRAMENTAS COMO "POWER UPS" -->
+<h2 align="center">Power-Ups do Kauê 👾</h2>
 <p align="center">
-  <i>💚 Cada projeto representa uma etapa essencial da minha trajetória — aprendizado, colaboração e impacto real através da tecnologia.</i>
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,java,postgres,mysql,mongodb,docker,git" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,netlify,dbeaver" />
+</p>
+<p align="center"><i>+ APIs, bash, cloud, pixel-art, automações malucas...</i></p>
+
+---
+
+<!-- ESTATÍSTICAS E GAMIFICAÇÃO -->
+<h2 align="center">Nível Atual: <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/main/img/level-up.gif" width="32"/> Tech Explorer</h2>
+<p align="center">
+  <img width="370" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Victorkaue333&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"/>
+  <img width="320" align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img align="center" alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Victorkaue333&row=1&theme=onestar&no-bg=true&no-frame=true"/>
 </p>
 
 ---
 
-<h3 align="center">⚙️ Tecnologias que uso no dia a dia:</h3>
-
+<!-- CHAMADA PARA NETWORKING COM EMOJIS E HUMOR -->
+<h2 align="center">Vamos fazer algo épico juntos?</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <a href="mailto:kaue.alves.pg@gmail.com.br">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/victor-kauê-419926364/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Victorkaue333">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
 </p>
+<p align="center"><sub>*Desafio: descubra um easter egg escondido neste README e me conte lá no LinkedIn 😏</sub></p>
 
 ---
 
-<h3 align="center">🧰 IDEs e Ferramentas que utilizo:</h3>
-
+<!-- FRASE IMPACTANTE FINAL, AUTORAL -->
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Bruno-FF6B81?style=for-the-badge&logo=bruno&logoColor=white" alt="Bruno"/>
-  <img src="https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Desktop"/>
-  <img src="https://img.shields.io/badge/GitHub_Desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
+  <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/main/img/blinking-star.gif" width="18"/>
+  <b>"O próximo bug é só uma oportunidade disfarçada de código." – Victor Kauê 🤟</b>
 </p>
-
----
-
-<div align="center">
-  <h3 align="center">📊 Minhas estatísticas no GitHub:</h3>
-  <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
-  <br><br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
-</div>
-
----
-
-<div align="center">
-  <h3 align="center">🌐 Conecte-se comigo!</h3>
-  <p align="center">
-    <a href="mailto:kaue.alves.pg@gmail.com.br" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/victor-kauê-419926364/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/Victorkaue333" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
-</div>
-
----
-
 <p align="center">
-  <i>"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores para fazer melhor ainda!"</i>
-  <br>
-  <strong>- Mario Sergio Cortella</strong>
-</p>
-
-<p align="center">
-  <strong>Feito com ❤️ por <a href="https://github.com/Victorkaue333">Victor Kauê</a></strong>
+    <i>Feito com <span style="color: #ff3366;">♥</span> por <a href="https://github.com/Victorkaue333">Victor Kauê</a></i>
 </p>
