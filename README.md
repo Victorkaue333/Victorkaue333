@@ -1,6 +1,10 @@
 ![Victor Alves Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Alves&textBg=false&section=header&reversal=true)
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFD600&center=true&vCenter=true&width=600&lines=Olá%2C+prazer%2C+eu+me+chamo+Victor+Kauê!+%F0%9F%91%8B" alt="Seja bem-vindo ao meu perfil!"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFD600&center=true&vCenter=true&width=700&lines=Olá%2C+prazer%2C+eu+me+chamo+Victor+Kauê!+%F0%9F%91%8B" alt="Typing SVG"/>
 </p>
 
