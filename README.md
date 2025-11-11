@@ -1,15 +1,16 @@
+![Victor Alves Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Alves&textBg=false&section=header&reversal=true)
 
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Alves&textBg=false&section=header&reversal=true
 <h1>Olá, prazer, eu me chamo Victor Kauê!👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL&color=0077B5&style=for-the-badge" alt="visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=VISUALIZAÇÕES+DO+PERFIL&color=0077B5&style=for-the-badge" alt="visualizações do perfil" />
 </p>
 
 ---
 
 <div>
   <h3 align="center">💻 Desenvolvedor Full Stack Python | Entusiasta de Tecnologia ☁️</h3>
+</div>
 
 ---
 
@@ -19,16 +20,13 @@ Meu nome é Victor Kauê, mas pode me chamar de **KAUÊ** 😎
 Sou apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra “ver como funcionava” (e às vezes sobravam peças 😂).
 
 Hoje, sou **Desenvolvedor Full Stack Python**, com um pezinho em **IA, Cloud e Segurança Digital**.  
-Adoro criar soluções que **simplifiquem a vida das pessoas** e mostrar que tecnologia não precisa ser um bicho de sete cabeças.  
+Adoro criar soluções que **simplificam a vida das pessoas** e mostrar que tecnologia não precisa ser um bicho de sete cabeças.
 
 Sempre estou estudando algo novo, porque acredito que **aprender nunca é demais**.  
 E quando não estou codando, provavelmente estou jogando, ouvindo música ou testando ideias aleatórias que surgem às 2 da manhã 💭.
 
-
-</div>
-
 <div align="center">
-  <p >
+  <p>
     <a href="https://victorkaue.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Meu_Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"/>
     </a>
@@ -36,22 +34,21 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
   (🚧 Em desenvolvimento 🚧)
 </div>
 
-<h3 align="center">🚀 Projetos em que participei</h3>
-</p>
-
 ---
 
+<h3 align="center">🚀 Projetos em que participei</h3>
+
 #### 🏫 **SIGREF - Sistema Integrado de Gerência Regional de Educação de Floresta**  
-O **SIGREF** é uma iniciativa voltada para à **educação e comunição entre as escola da Região de Itaparica para a **GreFloresta**, com foco em conectar os indivíduos e sanar problemas como a falta de comunicação.  
+O **SIGREF** é uma iniciativa voltada para a **educação e comunicação** entre as escolas da Região de Itaparica para a **GreFloresta**, com foco em conectar os indivíduos e sanar problemas como a falta de integração.
 Participei no **desenvolvimento da plataforma digital educacional**, contribuindo como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
 🔗 [Acesse o site](https://grefloresta.com.br/)
 
 ---
 
-#### 🧠 **NTIDI  **  
+#### 🧠 **NTIDI**  
 A **NTIDI** é uma empresa especializada em **soluções de software personalizadas**, oferecendo serviços em **Segurança, Inteligência Artificial, Cloud e Desenvolvimento**.  
-Atuei na **criação do zero e manutenção de aplicações web**, integração de APIs e no aprimoramento de pipelines técnicos para garantir **qualidade e escalabilidade** das entregas. 
-Outrossim, contribuí como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário. 
+Atuei na **criação do zero e manutenção de aplicações web**, integração de APIs e no aprimoramento de pipelines técnicos para garantir **qualidade e escalabilidade** das entregas.  
+Também contribui como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
 🔗 [Acesse o site](https://www.ntidi.com.br/)
 
 ---
@@ -71,13 +68,12 @@ Outrossim, contribuí como desenvolvedor Full-Stack Django e com melhorias na ex
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  
 </p>
 
 ---
@@ -99,12 +95,13 @@ Outrossim, contribuí como desenvolvedor Full-Stack Django e com melhorias na ex
 
 <div align="center">
   <h3 align="center">📊 Minhas estatísticas no GitHub:</h3>
-  <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
+  <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
   <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
   <br><br>
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
 </div>
 
+---
 
 <div align="center">
   <h3 align="center">🌐 Conecte-se comigo!</h3>
