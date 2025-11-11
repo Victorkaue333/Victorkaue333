@@ -9,7 +9,7 @@
 ---
 
 <div>
-  <h3>💻 Desenvolvedor Full Stack Python | Entusiasta de Tecnologia ☁️</h3>
+  <h3 align="center">💻 Desenvolvedor Full Stack Python | Entusiasta de Tecnologia ☁️</h3>
 
   ---
 
