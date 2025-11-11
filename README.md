@@ -16,13 +16,13 @@
 
 ### 🚀 Minha jornada
 
-Meu nome é Victor Kauê, mas pode me chamar de **KAUÊ** 😎  
+Meu nome é Victor Kauê, mas pode me chamar de *KAUÊ* 😎  
 Sou apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra “ver como funcionava” (e às vezes sobravam peças 😂).
 
-Hoje, sou **Desenvolvedor Full Stack Python**, com um pezinho em **IA, Cloud e Segurança Digital**.  
-Adoro criar soluções que **simplificam a vida das pessoas** e mostrar que tecnologia não precisa ser um bicho de sete cabeças.
+Hoje, sou *Desenvolvedor Full Stack Python, com um pezinho em **IA, Cloud e Segurança Digital**.*  
+Adoro criar soluções que *simplificam a vida das pessoas* e mostrar que tecnologia não precisa ser um bicho de sete cabeças.
 
-Sempre estou estudando algo novo, porque acredito que **aprender nunca é demais**.  
+Sempre estou estudando algo novo, porque acredito que *aprender nunca é demais*.  
 E quando não estou codando, provavelmente estou jogando, ouvindo música ou testando ideias aleatórias que surgem às 2 da manhã 💭.
 
 <div align="center">
@@ -38,16 +38,16 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
 
 <h3 align="center">🚀 Projetos em que participei</h3>
 
-#### 🏫 **SIGREF - Sistema Integrado de Gerência Regional de Educação de Floresta**  
-O **SIGREF** é uma iniciativa voltada para a **educação e comunicação** entre as escolas da Região de Itaparica para a **GreFloresta**, com foco em conectar os indivíduos e sanar problemas como a falta de integração.
-Participei no **desenvolvimento da plataforma digital educacional**, contribuindo como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
+#### 🏫 *SIGREF - Sistema Integrado de Gerência Regional de Educação de Floresta*  
+O *SIGREF* é uma iniciativa voltada para a *educação e comunicação* entre as escolas da Região de Itaparica para a *GreFloresta*, com foco em conectar os indivíduos e sanar problemas como a falta de integração.
+Participei no *desenvolvimento da plataforma digital educacional*, contribuindo como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
 🔗 [Acesse o site](https://grefloresta.com.br/)
 
 ---
 
-#### 🧠 **NTIDI**  
-A **NTIDI** é uma empresa especializada em **soluções de software personalizadas**, oferecendo serviços em **Segurança, Inteligência Artificial, Cloud e Desenvolvimento**.  
-Atuei na **criação do zero e manutenção de aplicações web**, integração de APIs e no aprimoramento de pipelines técnicos para garantir **qualidade e escalabilidade** das entregas.  
+#### 🧠 *NTIDI*  
+A *NTIDI* é uma empresa especializada em *soluções de software personalizadas, oferecendo serviços em **Segurança, Inteligência Artificial, Cloud e Desenvolvimento**.*  
+Atuei na *criação do zero e manutenção de aplicações web, integração de APIs e no aprimoramento de pipelines técnicos para garantir **qualidade e escalabilidade** das entregas.*  
 Também contribui como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
 🔗 [Acesse o site](https://www.ntidi.com.br/)
 
@@ -59,7 +59,7 @@ Também contribui como desenvolvedor Full-Stack Django e com melhorias na experi
 
 ---
 
-<h3 align="center">⚙️ Tecnologias que uso no dia a dia:</h3>
+<h3 align="center">⚙ Tecnologias que uso no dia a dia:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -96,7 +96,8 @@ Também contribui como desenvolvedor Full-Stack Django e com melhorias na experi
 <div align="center">
   <h3 align="center">📊 Minhas estatísticas no GitHub:</h3>
   <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
+  <!-- Substituindo o gráfico de linguagens usado anteriormente pelo novo (imagem 1) -->
+  <img height="180" align="center" alt="Most Used Languages" src="https://user-images.githubusercontent.com/your-username/image1.png"/>
   <br><br>
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
 </div>
@@ -127,5 +128,5 @@ Também contribui como desenvolvedor Full-Stack Django e com melhorias na experi
 </p>
 
 <p align="center">
-  <strong>Feito com ❤️ por <a href="https://github.com/Victorkaue333">Victor Kauê</a></strong>
+  <strong>Feito com ❤ por <a href="https://github.com/Victorkaue333">Victor Kauê</a></strong>
 </p>
