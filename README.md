@@ -42,16 +42,6 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
 O *SIGREF* é uma iniciativa voltada para a *educação e comunicação* entre as escolas da Região de Itaparica para a *GreFloresta*, com foco em conectar os indivíduos e sanar problemas como a falta de integração.
 Participei no *desenvolvimento da plataforma digital educacional*, contribuindo como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
 🔗 [Acesse o site](https://grefloresta.com.br/)
-#### *TECNOLOGIAS UTILIZADAS...
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
 
 ---
 
@@ -60,16 +50,6 @@ A *NTIDI* é uma empresa especializada em *soluções de software personalizadas
 Atuei na *criação do zero e manutenção de aplicações web, integração de APIs e no aprimoramento de pipelines técnicos para garantir **qualidade e escalabilidade** das entregas.*  
 Também contribui como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
 🔗 [Acesse o site](https://www.ntidi.com.br/)
-#### *TECNOLOGIAS UTILIZADAS...
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
 
 ---
 
