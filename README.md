@@ -78,7 +78,7 @@ Também contribui como desenvolvedor Full-Stack Django e com melhorias na experi
 
 ---
 
-<h3 align="center">🧰 IDEs e Ferramentas que utilizo:</h3>
+<h3 align="center">🧰IDEs e Ferramentas que utilizo:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
