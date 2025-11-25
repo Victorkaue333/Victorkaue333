@@ -128,8 +128,5 @@ Também contribui como desenvolvedor Full-Stack Django e com melhorias na experi
   <strong>- Mario Sergio Cortella</strong>
 </p>
 
-<p align="center">
-  <strong>Feito com ❤ por <a href="https://github.com/Victorkaue333">Victor Kauê</a></strong>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" /> 
