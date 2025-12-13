@@ -36,29 +36,6 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
 
 ---
 
-<h3 align="center">🚀 Projetos em que participei</h3>
-
-#### 🏫 *SIGREF - Sistema Integrado de Gerência Regional de Educação de Floresta*  
-O *SIGREF* é uma iniciativa voltada para a *educação e comunicação* entre as escolas da Região de Itaparica para a *GreFloresta*, com foco em conectar os indivíduos e sanar problemas como a falta de integração.
-Participei no *desenvolvimento da plataforma digital educacional*, contribuindo como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
-🔗 [Acesse o site](https://grefloresta.com.br/)
-
----
-
-#### 🧠 *NTIDI*  
-A *NTIDI* é uma empresa especializada em *soluções de software personalizadas, oferecendo serviços em **Segurança, Inteligência Artificial, Cloud e Desenvolvimento**.*  
-Atuei na *criação do zero e manutenção de aplicações web, integração de APIs e no aprimoramento de pipelines técnicos para garantir **qualidade e escalabilidade** das entregas.*  
-Também contribui como desenvolvedor Full-Stack Django e com melhorias na experiência do usuário.  
-🔗 [Acesse o site](https://www.ntidi.com.br/)
-
----
-
-<p align="center">
-  <i>💚 Cada projeto representa uma etapa essencial da minha trajetória — aprendizado, colaboração e impacto real através da tecnologia.</i>
-</p>
-
----
-
 <h3 align="center">⚙ Tecnologias que uso no dia a dia:</h3>
 
 <p align="center">
