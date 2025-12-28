@@ -1,7 +1,5 @@
 ![Victor Alves Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Alves&textBg=false&section=header&reversal=true)
 
-<h1 align="center">Olá, prazer, eu me chamo Victor Kauê!👋</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=VISUALIZAÇÕES+DO+PERFIL&color=0077B5&style=for-the-badge" alt="visualizações do perfil" />
 </p>
@@ -9,21 +7,21 @@
 ---
 
 <div>
-  <h3 align="center">💻 Desenvolvedor Full Stack Python | Entusiasta de Tecnologia ☁️</h3>
+  <h3 align="center">💻 Desenvolvedor Full Stack | Python com IA | Django | Laravel | Php | HTML | CSS | JavaScript | Freelancer | Entusiasta de Tecnologia</h3>
 </div>
 
 ---
+<h1 align="center">Olá, prazer!👋</h1>
+Meu nome é Victor Kauê, mas pode me chamar de *KAUÊ*.  
+Sou um cara apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra “ver como funcionava” (e às vezes sobravam peças). Além disso, minha jornada na tecnologia foi quando tive o meu primeiro contato com programação, que foi em um curso técnico de Desenvolvimento de Sistemas - o qual era ofertado de forma EAD e que durou 1 ano e meio.
 
-### 🚀 Minha jornada
+Outrossim, ingressei na faculdade de Gestão da Tecnologia da Informação, onde estou atualmente e, foi aqui onde minha carreira se iniciou. E também foi onde eu fiz o meu primeiro estágio na áre de progrmação como desenvolvedor Full-Stack Django, no qual participei ativamente no desenvolvimento do softwate cujo nome é SIGREF.
 
-Meu nome é Victor Kauê, mas pode me chamar de *KAUÊ* 😎  
-Sou apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra “ver como funcionava” (e às vezes sobravam peças 😂).
-
-Hoje, sou *Desenvolvedor Full Stack Python, com um pezinho em **IA, Cloud e Segurança Digital**.*  
+Hoje, sou *Desenvolvedor Full Stack, com um pezinho em **IA, Python, Infra, Desenvolvimento Web e Segurança Digital**.*  
 Adoro criar soluções que *simplificam a vida das pessoas* e mostrar que tecnologia não precisa ser um bicho de sete cabeças.
 
 Sempre estou estudando algo novo, porque acredito que *aprender nunca é demais*.  
-E quando não estou codando, provavelmente estou jogando, ouvindo música ou testando ideias aleatórias que surgem às 2 da manhã 💭.
+E quando não estou codando, provavelmente estou jogando, ouvindo música ou testando ideias aleatórias que surgem às 2 da manhã de um negócio que pode resolver um problema para a sociedade.
 
 <div align="center">
   <p>
@@ -31,12 +29,11 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
   <img src="https://img.shields.io/badge/Meu_Portfólio-FFD600?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfólio"/>
     </a>
   </p>
-  (🚧 Em desenvolvimento 🚧)
 </div>
 
 ---
 
-<h3 align="center">⚙ Tecnologias que uso no dia a dia:</h3>
+<h3 align="center">Tecnologias que uso no dia a dia:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -57,7 +54,7 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
 
 ---
 
-<h3 align="center">🧰 IDEs e Ferramentas que utilizo:</h3>
+<h3 align="center">IDEs e Ferramentas que utilizo:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
@@ -73,7 +70,7 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
 ---
 
 <div align="center">
-  <h3 align="center">📊 Minhas estatísticas no GitHub:</h3>
+  <h3 align="center">Minhas estatísticas no GitHub:</h3>
   <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
   <!-- Substituindo o gráfico de linguagens usado anteriormente pelo novo (imagem 1) -->
   <img height="180" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=10&theme=ayu-mirage"/>
