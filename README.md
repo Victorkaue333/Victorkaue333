@@ -7,15 +7,17 @@
 ---
 
 <div>
-  <h3 align="center">💻 Desenvolvedor Full Stack | Python com IA | Django | Laravel | Php | HTML | CSS | JavaScript | Freelancer | Entusiasta de Tecnologia</h3>
+  <h3 align="center"> Desenvolvedor Full Stack | Python com IA | Django | Laravel | Php | HTML | CSS | JavaScript | Freelancer | Entusiasta de Tecnologia</h3>
 </div>
 
 ---
 <h1 align="center">Olá, prazer!👋</h1>
-  Meu nome é Victor Kauê, mas pode me chamar de *KAUÊ*.  
-Sou um cara apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra “ver como funcionava” (e às vezes sobravam peças). Além disso, minha jornada na tecnologia foi quando tive o meu primeiro contato com programação, que foi em um curso técnico de Desenvolvimento de Sistemas - o qual era ofertado de forma EAD e que durou 1 ano e meio. Outrossim, ingressei na faculdade de Gestão da Tecnologia da Informação, onde estou atualmente e, foi aqui onde minha carreira se iniciou. E também foi onde eu fiz o meu primeiro estágio na áre de progrmação como desenvolvedor Full-Stack Django, no qual participei ativamente no desenvolvimento do softwate cujo nome é SIGREF.
+Meu nome é Victor Kauê, mas pode me chamar de *KAUÊ*.  
+Sou um cara apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra “ver como funcionava” (e às vezes sobravam peças). Além disso, minha jornada na tecnologia foi quando tive o meu primeiro contato com programação, que foi em um curso técnico de Desenvolvimento de Sistemas - o qual era ofertado de forma EAD e que durou 1 ano e meio. 
 
-  Hoje, sou *Desenvolvedor Full Stack, com um pezinho em **IA, Python, Infra, Desenvolvimento Web e Segurança Digital**.*  
+Outrossim, ingressei na faculdade de Gestão da Tecnologia da Informação, onde estou atualmente e, foi aqui onde minha carreira se iniciou. E também foi onde eu fiz o meu primeiro estágio na áre de progrmação como desenvolvedor Full-Stack Django, no qual participei ativamente no desenvolvimento do softwate cujo nome é SIGREF.
+
+Hoje, sou *Desenvolvedor Full Stack, com um pezinho em **IA, Python, Infra, Desenvolvimento Web e Segurança Digital**.*  
 Adoro criar soluções que *simplificam a vida das pessoas* e mostrar que tecnologia não precisa ser um bicho de sete cabeças.
 
 Sempre estou estudando algo novo, porque acredito que *aprender nunca é demais*.  
