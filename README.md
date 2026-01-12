@@ -76,7 +76,7 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
   <!-- Substituindo o gráfico de linguagens usado anteriormente pelo novo (imagem 1) -->
   <img height="180" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=10&theme=ayu-mirage"/>
   <br><br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
+  <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
 </div>
 
 
