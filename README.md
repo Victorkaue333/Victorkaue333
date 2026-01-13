@@ -13,10 +13,10 @@
 ---
 <h1 align="center">Olá, prazer!👋</h1>
 Meu nome é Victor Kauê, mas pode me chamar de *KAUÊ*.  
-Sou um cara apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra “ver como funcionava” (e às vezes sobravam peças). Além disso, minha jornada na tecnologia foi quando tive o meu primeiro contato com programação, que foi em um curso técnico de Desenvolvimento de Sistemas - o qual era ofertado de forma EAD e que durou 1 ano e meio.
+Sou um cara apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra "ver como funcionava" (e às vezes sobravam peças). Além disso, minha jornada na tecnologia foi quando tive o meu primeiro contato com programação, que foi em um curso técnico de Desenvolvimento de Sistemas - o qual era ofertado de forma EAD e que durou 1 ano e meio.
 
 
-Outrossim, ingressei na faculdade de Gestão da Tecnologia da Informação, onde estou atualmente e, foi aqui onde minha carreira se iniciou. E também foi onde eu fiz o meu primeiro estágio na áre de progrmação como desenvolvedor Full-Stack Django, no qual participei ativamente no desenvolvimento do softwate cujo nome é SIGREF.
+Outrossim, ingressei na faculdade de Gestão da Tecnologia da Informação, onde estou atualmente e, foi aqui onde minha carreira se iniciou. E também foi onde eu fiz o meu primeiro estágio na área de programação como desenvolvedor Full-Stack Django, no qual participei ativamente no desenvolvimento do software cujo nome é SIGREF.
 
 Hoje, sou *Desenvolvedor Full Stack, com um pezinho em **IA, Python, Infra, Desenvolvimento Web e Segurança Digital**.*  
 Adoro criar soluções que *simplificam a vida das pessoas* e mostrar que tecnologia não precisa ser um bicho de sete cabeças.
@@ -73,7 +73,7 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
 <div align="center">
   <h3 align="center">Minhas estatísticas no GitHub: </h3>
   <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
-  <img height="180" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/? username=Victorkaue333&layout=compact&langs_count=10&theme=ayu-mirage"/>
+  <img height="180" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=10&theme=ayu-mirage"/>
   <br><br>
   <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
 </div>
@@ -103,4 +103,4 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
