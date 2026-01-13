@@ -75,7 +75,7 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
   <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
   <img height="180" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/? username=Victorkaue333&layout=compact&langs_count=10&theme=ayu-mirage"/>
   <br><br>
-  <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
+  <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
 </div>
 
 
