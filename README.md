@@ -78,6 +78,7 @@ E quando não estou codando, provavelmente estou jogando, ouvindo música ou tes
   <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
 </div>
 
+
 <div align="center">
   <h3 align="center">🌐 Conecte-se comigo!</h3>
   <p align="center">
