@@ -5,14 +5,7 @@
 </p>
 
 ---
-
-<div>
-  <h3 align="center"> Desenvolvedor Full Stack | Python com IA | Django | Laravel | Php | HTML | CSS | JavaScript | Freelancer | Entusiasta de Tecnologia</h3>
-</div>
-
----
-<h1 align="center">Olá, prazer!👋</h1>
-Meu nome é Victor Kauê, mas pode me chamar de *KAUÊ*.  
+<h1 align="center">Olá, prazer, eu me chamo Victor Kauê!👋</h1>
 Sou um cara apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra "ver como funcionava" (e às vezes sobravam peças). Além disso, minha jornada na tecnologia foi quando tive o meu primeiro contato com programação, que foi em um curso técnico de Desenvolvimento de Sistemas - o qual era ofertado de forma EAD e que durou 1 ano e meio.
 
 
