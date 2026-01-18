@@ -9,6 +9,7 @@
 Sou um cara apaixonado por tecnologia desde a adolescência — aquele tipo de pessoa que desmontava o computador pra "ver como funcionava" (e às vezes sobravam peças). Além disso, minha jornada na tecnologia foi quando tive o meu primeiro contato com programação, que foi em um curso técnico de Desenvolvimento de Sistemas - o qual era ofertado de forma EAD e que durou 1 ano e meio. Outrossim, ingressei na faculdade de Gestão da Tecnologia da Informação, onde estou atualmente e, foi aqui onde minha carreira se iniciou. E também foi onde eu fiz o meu primeiro estágio na área de programação como desenvolvedor Full-Stack Django, no qual participei ativamente no desenvolvimento do software cujo nome é SIGREF. Hoje, sou *Desenvolvedor Full Stack, com um pezinho em **IA, Python, Infra, Desenvolvimento Web e Segurança Digital**.*  
 Adoro criar soluções que *simplificam a vida das pessoas* e mostrar que tecnologia não precisa ser um bicho de sete cabeças. Sempre estou estudando algo novo, porque acredito que *aprender nunca é demais*. E quando não estou codando, provavelmente estou jogando, ouvindo música ou testando ideias aleatórias que surgem às 2 da manhã de um negócio que pode resolver um problema para a sociedade.
 
+---
 <div align="center">
   <p>
     <a href="https://victorkaue.netlify.app/" target="_blank">
