@@ -8,9 +8,7 @@
 <h1 align="center">Olá, prazer, eu me chamo Victor Kauê!👋</h1>
 <h3 align="center">
 Full Stack Developer | Django • Python • Web Applications • APIs • Php
-</h3>
----
-
+</h3> 
 
 ### 👨‍💻 Sobre mim :
 Sou desenvolvedor **Full Stack** apaixonadour por tecnologia desde cedo.  
@@ -18,6 +16,16 @@ Atuo principalmente com **Django, Python, Php, Laravel e desenvolvimento web**, 
 Acredito que tecnologia deve ser **acessível, bem estruturada e pensada para pessoas tornando assim algo simples** — e estou sempre aprendendo algo novo para evoluir como profissional.
 
 > 📌 A versão completa da minha história está disponível no meu portfólio.
+
+---
+
+### 🚀 O que faço atualmente?
+- Desenvolvimento de aplicações web **Full Stack**
+- Criação de **APIs REST** com Django
+- Modelagem e integração com bancos de dados
+- Desenvolvimento de sistemas administrativos e dashboards
+- Uso de **Docker**, Git e boas práticas de versionamento
+- Estudo contínuo em **IA, segurança digital e infraestrutura**
 
 ---
 
