@@ -26,10 +26,9 @@ Acredito que tecnologia deve ser **acessível, bem estruturada e pensada para pe
 - Estudo contínuo em **IA, segurança digital e infraestrutura**
 
 ---
-
+  Quer me conhecer melhor? Acesse o meu portifólio aqui abaixo:
 <div align="center">
   <p>
-    Quer me conhecer melhor?Acesse o meu portifólio aqui abaixo:
     <a href="https://victorkaue.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Meu_Portfólio-FFD600?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfólio"/>
     </a>
