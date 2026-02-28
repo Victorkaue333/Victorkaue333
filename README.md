@@ -114,5 +114,4 @@ Acredito que tecnologia deve ser **acessível, bem estruturada e pensada para pe
   <strong>- Mario Sergio Cortella</strong>
 </p>
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
