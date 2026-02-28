@@ -11,8 +11,8 @@ Full Stack Developer | Django • Python • Web Applications • APIs • Php �
 </h3> 
 
 ### 👨‍💻 Sobre mim :
-Sou desenvolvedor **Full Stack** apaixonado por tecnologia desde cedo.  
-Atuo principalmente com **Django, Python, PHP, Laravel e desenvolvimento web**, criando soluções que simplificam processos e resolvem problemas reais.  
+Sou desenvolvedor **Full Stack** apaixonado por tecnologia desde cedo.
+Atuo principalmente com **Django, Python, PHP, Laravel e desenvolvimento web**, criando soluções que simplificam processos e resolvem problemas reais.
 Acredito que tecnologia deve ser **acessível, bem estruturada e pensada para pessoas**, tornando tudo mais simples.
 
 ---
