@@ -18,6 +18,7 @@ Acredito que tecnologia deve ser **acessível, bem estruturada e pensada para pe
 ---
 
 ### 🚀 O que faço atualmente?
+
 - Desenvolvimento de aplicações web **Full Stack**
 - Criação de **APIs REST** com Django
 - Modelagem e integração com bancos de dados
