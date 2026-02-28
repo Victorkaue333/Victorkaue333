@@ -1,4 +1,4 @@
-![Victor Alves Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Alves&textBg=false&section=header&reversal=true)
+![Victor Kauê Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Kauê&textBg=false&section=header&reversal=true)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=VISUALIZAÇÕES+DO+PERFIL&color=0077B5&style=for-the-badge" alt="visualizações do perfil" />
