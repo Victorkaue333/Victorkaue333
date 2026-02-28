@@ -24,11 +24,11 @@ Acredito que tecnologia deve ser **acessível, bem estruturada e pensada para pe
 
 ### 🚀 O que faço atualmente?
 
-- 🚀 Desenvolvimento de aplicações web escaláveis com foco em performance e organização de código  
-- 🔗 Criação e manutenção de **APIs REST robustas** utilizando Django e boas práticas de arquitetura  
-- 🗄️ Modelagem de bancos de dados e integração eficiente entre serviços  
-- 📊 Desenvolvimento de sistemas administrativos, dashboards e soluções internas para gestão de negócios  
-- 🐳 Containerização de aplicações com **Docker** e controle de versionamento com Git  
+- 🚀 Desenvolvimento de aplicações web escaláveis com foco em performance e organização de código
+- 🔗 Criação e manutenção de **APIs REST robustas** utilizando Django e boas práticas de arquitetura
+- 🗄️ Modelagem de bancos de dados e integração eficiente entre serviços
+- 📊 Desenvolvimento de sistemas administrativos, dashboards e soluções internas para gestão de negócios
+- 🐳 Containerização de aplicações com **Docker** e controle de versionamento com GiT
 - 🔐 Estudo contínuo e aplicação de conceitos em **segurança digital, IA e infraestrutura**
 
 ---
