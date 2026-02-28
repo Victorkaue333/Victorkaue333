@@ -28,11 +28,12 @@ Acredito que tecnologia deve ser **acessível, bem estruturada e pensada para pe
 - Estudo contínuo em **IA, segurança digital e infraestrutura**
 
 ---
- <p align="center"> Venha me conhecer melhor... acesse o meu portifólio aqui abaixo: </p>
+
+<p align="center">Conheça meu portfólio e projetos em destaque:</p>
 <div align="center">
   <p>
     <a href="https://victorkaue.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Meu_Portfólio-FFD600?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfólio"/>
+      <img src="https://img.shields.io/badge/Meu_Portfólio-FFD600?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfólio"/>
     </a>
   </p>
 </div>
