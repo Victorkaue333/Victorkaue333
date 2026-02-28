@@ -86,7 +86,7 @@ Acredito que tecnologia deve ser **acessível, bem estruturada e pensada para pe
 <div align="center">
   <h3 align="center">🌐 Conecte-se comigo!</h3>
   <p align="center">
-    <a href="mailto:kaue.alves.pg@gmail.com.br" target="_blank">
+    <a href="mailto:kaue.alves.pg@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://www.linkedin.com/in/victor-kauê-419926364/" target="_blank">
