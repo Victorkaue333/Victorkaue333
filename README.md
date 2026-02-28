@@ -7,7 +7,7 @@
 ---
 <h1 align="center">Olá, prazer, eu me chamo Victor Kauê!👋</h1>
 <h3 align="center">
-Full Stack Developer | Django • Python • Web Applications • APIs • Php • Laravel
+Full Stack Developer | Python • Django • PHP • Laravel | REST APIs | Scalable Web Systems
 </h3> 
 
 ### 👨‍💻 Sobre mim:
