@@ -39,15 +39,27 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 ---
 
 ## 🚀 Projetos em destaque
+🔐 **Queelvra – Sistema Antifraude **
+Backend desenvolvido em Python responsável pela análise de mensagens suspeitas e identificação de possíveis golpes, utilizando regras determinísticas e análise contextual com Inteligência Artificial. O sistema foi projetado para integração com interfaces externas e ambientes containerizados.
 
-🔐 **Sistema Antifraude**  
-Backend responsável por análise de mensagens suspeitas utilizando regras determinísticas e análise contextual com IA.
+🏢  **NTIDI – Plataforma Web Institucional**
+Desenvolvimento do ecossistema web institucional da empresa, incluindo site corporativo e sistema interno de auditoria. A aplicação foi construída com Python (Django), MySQL, HTML, CSS, JavaScript e Bootstrap, com automação de deploy via GitHub Actions e infraestrutura com Gunicorn e Nginx.
 
-📅 **AgendeAqui**  
-Sistema de agendamento desenvolvido em Django com autenticação de usuários e gerenciamento de horários.
+📅  **AgendeAqui – Sistema de Agendamentos**
+Aplicação web desenvolvida em Django para gerenciamento de agendamentos, autenticação de usuários e controle de horários, permitindo a organização de serviços e atendimentos de forma simples e eficiente.
 
-🏫 **SIGREF**  
-Sistema administrativo desenvolvido durante estágio para gestão de demandas escolares da GRE Floresta.
+🏫  **SIGREF – Sistema de Gestão Educacional**
+Sistema administrativo desenvolvido durante estágio para a Gerência Regional de Educação do Submédio São Francisco, com foco na organização de demandas escolares, gestão de atividades e controle de processos administrativos.
+
+🎤  **MaratonaTech – Sistema de Gestão de Eventos**
+Plataforma desenvolvida para gerenciamento de pitchs e sistema de votação em eventos de inovação, permitindo controle de apresentações, avaliação de projetos e acompanhamento dos resultados em tempo real.
+
+🛍  **Glamour Perfumes – Sistema de Gestão Comercial**
+Sistema administrativo para gestão de loja, incluindo controle de caixa, gestão de vendas, controle de estoque, contas a pagar e resumo operacional, desenvolvido para apoiar a tomada de decisões no negócio.
+
+💊  **VA Suplementos – Sistema de Gestão Empresarial**
+Sistema voltado para gestão comercial e financeira, com funcionalidades como controle de vendas, estoque, caixa e contas a pagar, permitindo melhor organização das operações da empresa.
+Sistema para controle de caixa, gestão de vendas, gestão de estoque, resumo operacional e contas a pagar.
 
 ---
 
