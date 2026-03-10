@@ -39,7 +39,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 ---
 
 ## 🚀 Projetos em destaque
-🔐 **Queelvra – Sistema Antifraude **
+🔐 **Queelvra – Sistema Antifraude**
 Backend desenvolvido em Python responsável pela análise de mensagens suspeitas e identificação de possíveis golpes, utilizando regras determinísticas e análise contextual com Inteligência Artificial. O sistema foi projetado para integração com interfaces externas e ambientes containerizados.
 
 🏢  **NTIDI – Plataforma Web Institucional**
