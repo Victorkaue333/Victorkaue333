@@ -66,6 +66,7 @@ possíveis golpes digitais utilizando regras determinísticas e análise context
 
 **Tecnologias**
 Python • APIs REST • Processamento de texto
+
 ---
 
 ### 🏢 NTIDI – Plataforma Web Institucional
