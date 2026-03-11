@@ -90,7 +90,7 @@ PHP • Laravel • MySQL
 Sistema web para gerenciamento de vendas, estoque e controle financeiro da empresa.
 
 **Tecnologias:**
-Python • Django • MySQL
+Python • Django • MySQL • GitHub Actions • Nginx • Gunicorn
 
 ---
 
