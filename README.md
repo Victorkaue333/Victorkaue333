@@ -100,7 +100,7 @@ Python • Django • MySQL
 Sistema administrativo desenvolvido durante estágio para a Gerência Regional de Educação do Submédio São Francisco, com foco na organização de demandas escolares, gestão de atividades e controle de processos administrativos.
 
 **Tecnologias:**
-Python • Django • MySQL • GCP • Railway
+Python • Django • MySQL • GCP • Railway • GitHub Actions • Nginx • Gunicorn
 
 ## 🧠 Stack Principal
 
