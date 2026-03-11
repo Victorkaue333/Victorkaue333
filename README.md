@@ -38,7 +38,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em destaque:
 
 📅  **AgendeAqui – Sistema de Agendamentos**:
 Aplicação web desenvolvida em Django para gerenciamento de agendamentos, autenticação de usuários e controle de horários, permitindo a organização de serviços e atendimentos de forma simples e eficiente.
