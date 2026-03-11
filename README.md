@@ -77,11 +77,6 @@ infraestrutura de deploy.
 **Tecnologias**
 Python • Django • MySQL • Docker • GitHub Actions • Nginx • Gunicorn
 
-**Responsabilidades**
-- Desenvolvimento backend em Django
-- Implementação de APIs REST
-- Configuração de infraestrutura e deploy
-
 ---
 
 ### 🛒 Glamour Perfumes – Sistema de Gestão Comercial
