@@ -86,10 +86,6 @@ PHP • Laravel • MySQL
 
 ---
 
-🏫  **SIGREF – Sistema de Gestão Educacional**:
-Sistema administrativo desenvolvido durante estágio para a Gerência Regional de Educação do Submédio São Francisco, com foco na organização de demandas escolares, gestão de atividades e controle de processos administrativos.
-
-
 ### 🏋️ VA Suplementos – Sistema de Gestão Empresarial
 
 Sistema web para gerenciamento de vendas, estoque e controle financeiro da
@@ -97,6 +93,11 @@ empresa.
 
 **Tecnologias:**
 Python • Django • MySQL
+
+---
+
+🏫  **SIGREF – Sistema de Gestão Educacional**:
+Sistema administrativo desenvolvido durante estágio para a Gerência Regional de Educação do Submédio São Francisco, com foco na organização de demandas escolares, gestão de atividades e controle de processos administrativos.
 
 ## 🧠 Stack Principal
 
