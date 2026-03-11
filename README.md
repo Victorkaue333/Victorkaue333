@@ -7,13 +7,14 @@
 ---
 # Victor Kauê
 
-### Backend / Full-Stack Developer  
+### Backend / Full-Stack Developer
 Python • Django • REST APIs • Docker • Backend Systems
 
 Desenvolvedor focado em construir sistemas web escaláveis, APIs robustas e soluções backend para problemas reais de negócio.
 
 ---
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim:
+
 Sou desenvolvedor com foco em **Python e Django**, com experiência no desenvolvimento de **sistemas web completos, APIs e aplicações administrativas**.
 
 Tenho experiência em:
@@ -27,7 +28,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## 🚀 O que faço atualmente
+## 🚀 O que faço atualmente:
 
 - Desenvolvimento de **aplicações web escaláveis**
 - Criação de **APIs REST utilizando Django**
@@ -51,7 +52,7 @@ Plataforma desenvolvida para gerenciamento de pitchs e sistema de votação em e
 
 ---
 
-## 💼 Projetos Profissionais
+## 💼 Projetos Profissionais:
 
 Alguns projetos abaixo foram desenvolvidos durante minha atuação profissional.
 Os códigos são privados e pertencem às respectivas empresas.
