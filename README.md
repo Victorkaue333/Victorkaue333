@@ -54,13 +54,6 @@ Plataforma desenvolvida para gerenciamento de pitchs e sistema de votação em e
 ## 💼 Projetos Profissionais
 
 Alguns projetos abaixo foram desenvolvidos durante minha atuação profissional.
-Por questões de confidencialidade, os repositórios e códigos fonte são privados
-e pertencem às respectivas empresas. Aqui apresento apenas uma descrição das
-soluções e das minhas responsabilidades técnicas.
-
-## 💼 Projetos Profissionais
-
-Alguns projetos abaixo foram desenvolvidos durante minha atuação profissional.
 Os códigos são privados e pertencem às respectivas empresas.
 
 ---
