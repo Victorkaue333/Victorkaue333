@@ -66,12 +66,6 @@ possíveis golpes digitais utilizando regras determinísticas e análise context
 
 **Tecnologias**
 Python • APIs REST • Processamento de texto
-
-**Responsabilidades**
-- Desenvolvimento da lógica de análise antifraude
-- Implementação de APIs internas
-- Modelagem de dados
-
 ---
 
 ### 🏢 NTIDI – Plataforma Web Institucional
