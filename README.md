@@ -58,6 +58,71 @@ Por questões de confidencialidade, os repositórios e códigos fonte são priva
 e pertencem às respectivas empresas. Aqui apresento apenas uma descrição das
 soluções e das minhas responsabilidades técnicas.
 
+## 💼 Projetos Profissionais
+
+Alguns projetos abaixo foram desenvolvidos durante minha atuação profissional.
+Os códigos são privados e pertencem às respectivas empresas.
+
+---
+
+### 🔐 Queelvra – Sistema de Análise Antifraude
+
+Backend responsável pela análise de mensagens suspeitas e identificação de
+possíveis golpes digitais utilizando regras determinísticas e análise contextual.
+
+**Tecnologias**
+Python • APIs REST • Processamento de texto
+
+**Responsabilidades**
+- Desenvolvimento da lógica de análise antifraude
+- Implementação de APIs internas
+- Modelagem de dados
+
+---
+
+### 🏢 NTIDI – Plataforma Web Institucional
+
+Sistema web institucional com integração entre backend, banco de dados e
+infraestrutura de deploy.
+
+**Tecnologias**
+Python • Django • MySQL • Docker • GitHub Actions • Nginx • Gunicorn
+
+**Responsabilidades**
+- Desenvolvimento backend em Django
+- Implementação de APIs REST
+- Configuração de infraestrutura e deploy
+
+---
+
+### 🛒 Glamour Perfumes – Sistema de Gestão Comercial
+
+Sistema administrativo para controle de vendas, estoque, caixa e relatórios
+operacionais.
+
+**Tecnologias**
+Python • Django • MySQL
+
+**Responsabilidades**
+- Desenvolvimento de módulos administrativos
+- Modelagem de banco de dados
+- Implementação de funcionalidades de gestão comercial
+
+---
+
+### 🏋️ VA Suplementos – Sistema de Gestão Empresarial
+
+Sistema web para gerenciamento de vendas, estoque e controle financeiro da
+empresa.
+
+**Tecnologias**
+Python • Django • MySQL
+
+**Responsabilidades**
+- Desenvolvimento backend
+- Implementação de funcionalidades administrativas
+- Integração entre módulos do sistema
+
 ## 🧠 Stack Principal
 
 <p align="center">
