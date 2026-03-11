@@ -62,14 +62,13 @@ Backend responsável pela análise de mensagens suspeitas e identificação de
 possíveis golpes digitais utilizando regras determinísticas e análise contextual.
 
 **Tecnologias:**
-Python • APIs REST • Processamento de texto
+Flutter • Python • APIs REST • Processamento de texto
 
 ---
 
 ### 🏢 NTIDI – Plataforma Web Institucional
 
-Sistema web institucional com integração entre backend, banco de dados e
-infraestrutura de deploy.
+Sistema web institucional com integração entre backend, banco de dados e infraestrutura de deploy.
 
 **Tecnologias:**
 Python • Django • MySQL • Docker • GitHub Actions • Nginx • Gunicorn
