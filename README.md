@@ -97,11 +97,6 @@ empresa.
 **Tecnologias**
 Python • Django • MySQL
 
-**Responsabilidades**
-- Desenvolvimento backend
-- Implementação de funcionalidades administrativas
-- Integração entre módulos do sistema
-
 ## 🧠 Stack Principal
 
 <p align="center">
