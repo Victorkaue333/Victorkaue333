@@ -10,7 +10,7 @@
 ### Backend / Full-Stack Developer  
 Python • Django • REST APIs • Docker • Scalable Web Systems
 
-Desenvolvedor focado na criação de **sistemas web escaláveis, APIs robustas e soluções administrativas**, aplicando boas práticas de arquitetura e organização de código para resolver problemas reais de negócio.
+Desenvolvedor focado em construir sistemas web escaláveis, APIs robustas e soluções backend para problemas reais de negócio.
 
 ---
 ## 👨‍💻 Sobre mim
