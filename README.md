@@ -84,7 +84,7 @@ Python • Django • MySQL • Docker • GitHub Actions • Nginx • Gunicorn
 Sistema administrativo para controle de vendas, estoque, caixa e relatórios
 operacionais.
 
-**Tecnologias**
+**Tecnologias:**
 PHP • Laravel • MySQL
 
 ---
@@ -94,7 +94,7 @@ PHP • Laravel • MySQL
 Sistema web para gerenciamento de vendas, estoque e controle financeiro da
 empresa.
 
-**Tecnologias**
+**Tecnologias:**
 Python • Django • MySQL
 
 ## 🧠 Stack Principal
