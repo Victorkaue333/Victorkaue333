@@ -99,6 +99,9 @@ Python • Django • MySQL
 🏫  **SIGREF – Sistema de Gestão Educacional**:
 Sistema administrativo desenvolvido durante estágio para a Gerência Regional de Educação do Submédio São Francisco, com foco na organização de demandas escolares, gestão de atividades e controle de processos administrativos.
 
+**Tecnologias:**
+Python • Django • MySQL • GCP • Railway
+
 ## 🧠 Stack Principal
 
 <p align="center">
