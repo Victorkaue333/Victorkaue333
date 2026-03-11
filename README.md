@@ -44,9 +44,6 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 📅  **AgendeAqui – Sistema de Agendamentos**:
 Aplicação web desenvolvida em Django para gerenciamento de agendamentos, autenticação de usuários e controle de horários, permitindo a organização de serviços e atendimentos de forma simples e eficiente.
 
-🏫  **SIGREF – Sistema de Gestão Educacional**:
-Sistema administrativo desenvolvido durante estágio para a Gerência Regional de Educação do Submédio São Francisco, com foco na organização de demandas escolares, gestão de atividades e controle de processos administrativos.
-
 🎤  **MaratonaTech – Sistema de Gestão de Eventos**:
 Plataforma desenvolvida para gerenciamento de pitchs e sistema de votação em eventos de inovação, permitindo controle de apresentações, avaliação de projetos e acompanhamento dos resultados em tempo real.
 
@@ -88,6 +85,10 @@ operacionais.
 PHP • Laravel • MySQL
 
 ---
+
+🏫  **SIGREF – Sistema de Gestão Educacional**:
+Sistema administrativo desenvolvido durante estágio para a Gerência Regional de Educação do Submédio São Francisco, com foco na organização de demandas escolares, gestão de atividades e controle de processos administrativos.
+
 
 ### 🏋️ VA Suplementos – Sistema de Gestão Empresarial
 
