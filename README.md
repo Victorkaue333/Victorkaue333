@@ -87,11 +87,6 @@ operacionais.
 **Tecnologias**
 Python • Django • MySQL
 
-**Responsabilidades**
-- Desenvolvimento de módulos administrativos
-- Modelagem de banco de dados
-- Implementação de funcionalidades de gestão comercial
-
 ---
 
 ### 🏋️ VA Suplementos – Sistema de Gestão Empresarial
