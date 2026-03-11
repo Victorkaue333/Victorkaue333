@@ -85,7 +85,7 @@ Sistema administrativo para controle de vendas, estoque, caixa e relatórios
 operacionais.
 
 **Tecnologias**
-Python • Django • MySQL
+PHP • Laravel • MySQL
 
 ---
 
