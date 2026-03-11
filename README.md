@@ -64,6 +64,8 @@ possíveis golpes digitais utilizando regras determinísticas e análise context
 **Tecnologias:**
 Flutter • Python • APIs REST • Processamento de texto
 
+🔒 Projeto privado pertencente à empresa
+
 ---
 
 ### 🏢 NTIDI – Plataforma Web Institucional
@@ -72,6 +74,8 @@ Sistema web institucional com integração entre backend, banco de dados e infra
 
 **Tecnologias:**
 Python • Django • MySQL • Docker • GitHub Actions • Nginx • Gunicorn
+
+🔒 Projeto privado pertencente à empresa
 
 ---
 
@@ -82,6 +86,8 @@ Sistema administrativo para controle de vendas, estoque, caixa e relatórios ope
 **Tecnologias:**
 PHP • Laravel • MySQL • GitHub Actions • Nginx • Gunicorn
 
+🔒 Projeto privado pertencente à empresa
+
 ---
 
 ### 🏋️ VA Suplementos – Sistema de Gestão Empresarial
@@ -91,6 +97,8 @@ Sistema web para gerenciamento de vendas, estoque e controle financeiro da empre
 **Tecnologias:**
 Python • Django • MySQL • GitHub Actions • Nginx • Gunicorn
 
+🔒 Projeto privado pertencente à empresa
+
 ---
 
 🏫  **SIGREF – Sistema de Gestão Educacional**:
@@ -98,6 +106,10 @@ Sistema administrativo desenvolvido durante estágio para a Gerência Regional d
 
 **Tecnologias:**
 Python • Django • MySQL • GCP • Railway • GitHub Actions • Nginx • Gunicorn
+
+🔒 Projeto privado pertencente à empresa
+
+---
 
 ## 🧠 Stack Principal
 
