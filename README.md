@@ -78,8 +78,7 @@ Python • Django • MySQL • Docker • GitHub Actions • Nginx • Gunicorn
 
 ### 🛒 Glamour Perfumes – Sistema de Gestão Comercial
 
-Sistema administrativo para controle de vendas, estoque, caixa e relatórios
-operacionais.
+Sistema administrativo para controle de vendas, estoque, caixa e relatórios operacionais.
 
 **Tecnologias:**
 PHP • Laravel • MySQL
@@ -88,8 +87,7 @@ PHP • Laravel • MySQL
 
 ### 🏋️ VA Suplementos – Sistema de Gestão Empresarial
 
-Sistema web para gerenciamento de vendas, estoque e controle financeiro da
-empresa.
+Sistema web para gerenciamento de vendas, estoque e controle financeiro da empresa.
 
 **Tecnologias:**
 Python • Django • MySQL
