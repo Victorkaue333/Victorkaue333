@@ -64,7 +64,7 @@ Os códigos são privados e pertencem às respectivas empresas.
 Backend responsável pela análise de mensagens suspeitas e identificação de
 possíveis golpes digitais utilizando regras determinísticas e análise contextual.
 
-**Tecnologias**
+**Tecnologias:**
 Python • APIs REST • Processamento de texto
 
 ---
@@ -74,7 +74,7 @@ Python • APIs REST • Processamento de texto
 Sistema web institucional com integração entre backend, banco de dados e
 infraestrutura de deploy.
 
-**Tecnologias**
+**Tecnologias:**
 Python • Django • MySQL • Docker • GitHub Actions • Nginx • Gunicorn
 
 ---
