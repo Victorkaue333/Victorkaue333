@@ -34,6 +34,10 @@ Tenho experiência em:
 Também atuo em projetos voltados para **automação, sistemas corporativos e soluções de cibersegurança**.
 
 ---
+<!-- ===================== -->
+<!--  Seção de O que faço  -->
+<!-- ===================== -->
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> O que faço atualmente:
 
