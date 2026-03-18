@@ -1,4 +1,4 @@
-![Victor Kauê Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Kauê&textBg=false&section=header&reversal=true)
+![Victor Kauê Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20Kauê&desc=Backend%20/%20Full-Stack%20Developer&section=header&reversal=false&textBg=false&animation=fadeIn)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=PROFILE+VIEWS&color=0077B5&style=for-the-badge" />
