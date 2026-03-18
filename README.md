@@ -98,6 +98,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 </div>
 
 ---
+<!-- Seção de Contato -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="25" height="25" /> Contato:
 
