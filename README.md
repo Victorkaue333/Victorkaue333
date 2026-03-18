@@ -41,7 +41,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Tech Stack" width="25" height="25" /> Tecnologias e Ferramentas:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,git,github" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Tech Stack" width="25" height="25" /> Frameworks e Bibliotecas:
