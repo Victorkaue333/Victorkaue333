@@ -47,7 +47,6 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
   <img src="https://skillicons.dev/icons?i=python,django,php,laravel,html,css,javascript,bootstrap,docker,fastapi,git,github" />
 </p>
 
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" height="25" /> Bancos de Dados:
 
