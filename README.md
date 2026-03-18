@@ -60,7 +60,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
   <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,git,github" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Tech Stack" width="25" height="25" /> Frameworks e Bibliotecas:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Frameworks" width="25" height="25" /> Frameworks e Bibliotecas:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,laravel,bootstrap,fastapi" />
@@ -73,7 +73,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 </p>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" height="25" /> Plataformas e Serviços:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Platforms" width="25" height="25" /> Plataformas e Serviços:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase,githubactions" />
