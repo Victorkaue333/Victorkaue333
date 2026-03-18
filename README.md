@@ -1,7 +1,7 @@
-![Victor Kauê Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8B5A8D,50:A05F9A,100:5CB8C4&text=Victor%20Kauê&desc=Backend%20/%20Full-Stack%20Developer&section=header&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=48&descAlign=50&descAlignY=62)
+![Victor Kauê Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:101726,50:1a2640,100:ed9209&text=Victor%20Kauê&desc=Backend%20/%20Full-Stack%20Developer&section=header&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=48&descAlign=50&descAlignY=62)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=PROFILE+VIEWS&color=A05F9A&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=PROFILE+VIEWS&color=ed9209&style=for-the-badge" />
 </p>
 
 ---
@@ -94,4 +94,4 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 <strong>- Mario Sergio Cortella</strong>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5A8D,50:A05F9A,100:5CB8C4&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9209,50:1a2640,100:101726&height=120&section=footer&animation=twinkling"/>
