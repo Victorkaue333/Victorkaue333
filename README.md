@@ -5,6 +5,7 @@
 </p>
 
 ---
+
 # Victor Kauê
 
 ### Backend / Full-Stack Developer
@@ -13,6 +14,7 @@ Python • Django • REST APIs • Docker • Backend Systems
 Desenvolvedor focado em construir sistemas web escaláveis, APIs robustas e soluções backend para problemas reais de negócio.
 
 ---
+
 ## 👨‍💻 Sobre mim:
 
 Sou desenvolvedor com foco em **Python e Django**, com experiência no desenvolvimento de **sistemas web completos, APIs e aplicações administrativas**.
@@ -39,7 +41,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## 🧠 Stack Principal
+## 🧠 Stack Principal:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,php,laravel,html,css,javascript,bootstrap,docker,fastapi,git,github" />
@@ -47,7 +49,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## 🗄️ Bancos de Dados
+## 🗄️ Bancos de Dados:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
@@ -55,7 +57,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas GitHub:
 
 <div align="center">
 
@@ -71,7 +73,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## 🌐 Contato
+## 🌐 Contato:
 
 <p align="center">
   <a href="mailto:kaue.alves.pg@gmail.com">
