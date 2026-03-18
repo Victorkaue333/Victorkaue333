@@ -20,7 +20,7 @@ Desenvolvedor focado em construir **sistemas web escaláveis, APIs robustas e so
 <!-- ===================== -->
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Sobre mim:
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre mim:
 
 Sou desenvolvedor com foco em **Python e Django**, com experiência no desenvolvimento de **sistemas web completos, APIs e aplicações administrativas**.
 
@@ -39,7 +39,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 <!-- ===================== -->
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> O que faço atualmente:
+## <img src="https://media.giphy.com/media/jS2krunO5UA3mEQhub/giphy.gif" width="30"> O que faço atualmente:
 
 - Desenvolvimento de **aplicações web escaláveis**;
 - Criação de **APIs REST utilizando Django**;
@@ -54,26 +54,26 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 <!-- ===================== -->
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Tech Stack" width="25" height="25" /> Tecnologias e Ferramentas:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologias e Ferramentas:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,git,github" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Frameworks" width="25" height="25" /> Frameworks e Bibliotecas:
+## <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30"> Frameworks e Bibliotecas:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,laravel,bootstrap,fastapi" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" height="25" /> Bancos de Dados:
+## <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="30"> Bancos de Dados:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Platforms" width="25" height="25" /> Plataformas e Serviços:
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Plataformas e Serviços:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase,githubactions" />
@@ -85,7 +85,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 <!-- ===================== -->
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> Estatísticas GitHub:
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Estatísticas GitHub:
 
 <div align="center">
   
@@ -118,7 +118,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 <!-- Seção de Contato -->
 <!-- ================ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="25" height="25" /> Contato:
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Contato:
 
 <p align="center">
   <a href="mailto:kaue.alves.pg@gmail.com">
