@@ -63,20 +63,20 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 <table>
   <tr>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&bg_color=101726&title_color=ed9209&text_color=ffffff&icon_color=ed9209&border_color=ed9209&ring_color=ed9209"/>
     </td>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=8&theme=ayu-mirage"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=8&bg_color=101726&title_color=ed9209&text_color=ffffff&border_color=ed9209"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victorkaue333&theme=dark&background=101726&ring=ed9209&fire=ed9209&currStreakLabel=ed9209"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victorkaue333&theme=dark&background=101726&ring=ed9209&fire=ed9209&currStreakLabel=ed9209&stroke=ed9209&border=ed9209&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=monokai"/>
     </td>
   </tr>
   <tr>
