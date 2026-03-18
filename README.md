@@ -114,7 +114,7 @@ Python • Django • MySQL • GCP • Railway • GitHub Actions • Nginx •
 ## 🧠 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,html,css,javascript,docker,fastapi,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,html,css,javascript,bootstrap,docker,fastapi,git,github" />
 </p>
 
 ---
