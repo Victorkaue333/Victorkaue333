@@ -114,16 +114,7 @@ Python • Django • MySQL • GCP • Railway • GitHub Actions • Nginx •
 ## 🧠 Stack Principal
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,docker,git,github" />
 </p>
 
 ---
@@ -131,11 +122,7 @@ Python • Django • MySQL • GCP • Railway • GitHub Actions • Nginx •
 ## 🗄️ Bancos de Dados
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 ---
