@@ -37,6 +37,10 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 - Aplicação de boas práticas de **arquitetura e organização de código**;
 
 ---
+<!-- ===================== -->
+<!-- Seção de Ferramentas -->
+<!-- ===================== -->
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Tech Stack" width="25" height="25" /> Tecnologias e Ferramentas:
 
