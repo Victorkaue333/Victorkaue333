@@ -18,10 +18,10 @@ Sou desenvolvedor com foco em **Python e Django**, com experiência no desenvolv
 
 Tenho experiência em:
 
-- desenvolvimento de **backend escalável**
-- **containerização com Docker**
-- **CI/CD com GitHub Actions**
-- infraestrutura com **Gunicorn e Nginx**
+- desenvolvimento de **backend escalável**;
+- **containerização com Docker**;
+- **CI/CD com GitHub Actions**;
+- infraestrutura com **Gunicorn e Nginx**;
 
 Também atuo em projetos voltados para **automação, sistemas corporativos e soluções de cibersegurança**.
 
@@ -29,12 +29,12 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> O que faço atualmente:
 
-- Desenvolvimento de **aplicações web escaláveis**
-- Criação de **APIs REST utilizando Django**
-- Modelagem e integração de **bancos de dados**
-- Desenvolvimento de **sistemas administrativos e dashboards**
-- Containerização de aplicações com **Docker**
-- Aplicação de boas práticas de **arquitetura e organização de código**
+- Desenvolvimento de **aplicações web escaláveis**;
+- Criação de **APIs REST utilizando Django**;
+- Modelagem e integração de **bancos de dados**;
+- Desenvolvimento de **sistemas administrativos e dashboards**;
+- Containerização de aplicações com **Docker**;
+- Aplicação de boas práticas de **arquitetura e organização de código**;
 
 ---
 
