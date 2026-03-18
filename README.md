@@ -64,6 +64,10 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 </p>
 
 ---
+<!-- ===================== -->
+<!-- Seção de Estatísticas -->
+<!-- ===================== -->
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> Estatísticas GitHub:
 
