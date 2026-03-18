@@ -80,8 +80,8 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
   <a href="https://www.linkedin.com/in/victor-kau%C3%AA-419926364/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://victorkaue.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=netlify" />
+  <a href="https://victorkaue.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
 
