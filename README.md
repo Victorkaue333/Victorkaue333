@@ -59,22 +59,27 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> Estatísticas GitHub:
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=8&theme=ayu-mirage"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Victorkaue333&theme=dark&background=101726&ring=ed9209&fire=ed9209&currStreakLabel=ed9209"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=ayu_mirage"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Victorkaue333&theme=react-dark&bg_color=101726&color=ffffff&line=ed9209&point=ed9209&area=true&hide_border=true"/>
+  
+<table>
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Victorkaue333&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=8&theme=ayu-mirage"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victorkaue333&theme=dark&background=101726&ring=ed9209&fire=ed9209&currStreakLabel=ed9209"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victorkaue333&theme=react-dark&bg_color=101726&color=ffffff&line=ed9209&point=ed9209&area=true&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
