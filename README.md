@@ -8,7 +8,7 @@
 
 **Python • Django • REST APIs • Docker • Backend Systems**
 
-Desenvolvedor focado em construir sistemas web escaláveis, APIs robustas e soluções backend para problemas reais de negócio.
+Desenvolvedor focado em construir **sistemas web escaláveis, APIs robustas e soluções backend para problemas reais de negócio**.
 
 ---
 
