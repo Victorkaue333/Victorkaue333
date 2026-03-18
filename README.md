@@ -38,17 +38,29 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Tech Stack" width="25" height="25" /> Stack Principal:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Tech Stack" width="25" height="25" /> Tecnologias e Ferramentas:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,html,css,javascript,bootstrap,docker,fastapi,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,fastapi,git,github,figma,vscode,bruno" />
 </p>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Tech Stack" width="25" height="25" /> Frameworks e Bibliotecas:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,laravel,bootstrap,fastapi" />
+</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" height="25" /> Bancos de Dados:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" height="25" /> Plataformas e Serviços:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase,githubactions" />
 </p>
 
 ---
