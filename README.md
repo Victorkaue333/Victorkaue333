@@ -15,6 +15,10 @@
 Desenvolvedor focado em construir **sistemas web escaláveis, APIs robustas e soluções backend para problemas reais de negócio**.
 
 ---
+<!-- ===================== -->
+<!--     Seção de Sobre    -->
+<!-- ===================== -->
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Sobre mim:
 
