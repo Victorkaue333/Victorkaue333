@@ -78,7 +78,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=monokai"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=github_dark"/>
     </td>
   </tr>
 </table>
