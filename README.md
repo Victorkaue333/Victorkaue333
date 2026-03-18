@@ -73,12 +73,12 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=monokai"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victorkaue333&theme=react-dark&bg_color=101726&color=ffffff&line=ed9209&point=ed9209&area=true&hide_border=true"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victorkaue333&theme=react-dark&bg_color=101726&color=ffffff&line=ed9209&point=ed9209&area=true&hide_border=true"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victorkaue333&theme=monokai"/>
     </td>
   </tr>
 </table>
