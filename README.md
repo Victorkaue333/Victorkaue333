@@ -5,6 +5,10 @@
 </p>
 
 ---
+<!-- ===================== -->
+<!-- Seção de Habilidades -->
+<!-- ===================== -->
+
 
 **Python • Django • REST APIs • Docker • Backend Systems**
 
