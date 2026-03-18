@@ -15,7 +15,7 @@ Desenvolvedor focado em construir sistemas web escaláveis, APIs robustas e solu
 
 ---
 
-## 👨‍💻 Sobre mim:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Sobre mim:
 
 Sou desenvolvedor com foco em **Python e Django**, com experiência no desenvolvimento de **sistemas web completos, APIs e aplicações administrativas**.
 
@@ -30,7 +30,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## 🚀 O que faço atualmente:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> O que faço atualmente:
 
 - Desenvolvimento de **aplicações web escaláveis**
 - Criação de **APIs REST utilizando Django**
@@ -41,7 +41,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## 🧠 Stack Principal:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Tech Stack" width="25" height="25" /> Stack Principal:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,php,laravel,html,css,javascript,bootstrap,docker,fastapi,git,github" />
@@ -49,7 +49,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## 🗄️ Bancos de Dados:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" height="25" /> Bancos de Dados:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
@@ -57,7 +57,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## 📊 Estatísticas GitHub:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> Estatísticas GitHub:
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-## 🌐 Contato:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="25" height="25" /> Contato:
 
 <p align="center">
   <a href="mailto:kaue.alves.pg@gmail.com">
