@@ -74,19 +74,15 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 ## 🌐 Contato
 
 <p align="center">
-
-<a href="mailto:kaue.alves.pg@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/victor-kau%C3%AA-419926364/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://victorkaue.netlify.app/">
-<img src="https://img.shields.io/badge/Portfólio-FFD600?style=for-the-badge&logo=netlify&logoColor=black"/>
-</a>
-
+  <a href="mailto:kaue.alves.pg@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/victor-kau%C3%AA-419926364/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://victorkaue.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=netlify" />
+  </a>
 </p>
 
 ---
