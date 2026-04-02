@@ -50,20 +50,6 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 <!-- ===================== -->
-<!-- Seção de Projetos em Destaque -->
-<!-- ===================== -->
-
-
-## <img src="https://media.giphy.com/media/TqiwHbFBaZ4/giphy.gif" width="30"> Projetos em Destaque:
-
-| Projeto | Descrição | Linguagem |
-|---------|-----------|-----------|
-| [Projeto 1](https://github.com/Victorkaue333/seu-projeto) | Descrição breve do projeto | Python/Django |
-| [Projeto 2](https://github.com/Victorkaue333/seu-projeto) | Descrição breve do projeto | Python |
-| [Projeto 3](https://github.com/Victorkaue333/seu-projeto) | Descrição breve do projeto | JavaScript |
-
----
-<!-- ===================== -->
 <!-- Seção de Ferramentas -->
 <!-- ===================== -->
 
@@ -94,6 +80,21 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 </p>
 
 ---
+<!-- ===================== -->
+<!-- Seção de Projetos em Destaque -->
+<!-- ===================== -->
+
+
+## <img src="https://media.giphy.com/media/TqiwHbFBaZ4/giphy.gif" width="30"> Projetos em Destaque:
+
+| Projeto | Descrição | Linguagem |
+|---------|-----------|-----------|
+| [Projeto 1](https://github.com/Victorkaue333/seu-projeto) | Descrição breve do projeto | Python/Django |
+| [Projeto 2](https://github.com/Victorkaue333/seu-projeto) | Descrição breve do projeto | Python |
+| [Projeto 3](https://github.com/Victorkaue333/seu-projeto) | Descrição breve do projeto | JavaScript |
+
+---
+
 <!-- ===================== -->
 <!-- Seção de Estatísticas -->
 <!-- ===================== -->
