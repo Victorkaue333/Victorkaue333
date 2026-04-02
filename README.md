@@ -87,11 +87,82 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ## <img src="https://media.giphy.com/media/TqiwHbFBaZ4/giphy.gif" width="30"> Projetos em Destaque:
 
-| Projeto | Descrição | Linguagem |
-|---------|-----------|-----------|
-| [Projeto 1](https://github.com/Victorkaue333/seu-projeto) | Descrição breve do projeto | Python/Django |
-| [Projeto 2](https://github.com/Victorkaue333/seu-projeto) | Descrição breve do projeto | Python |
-| [Projeto 3](https://github.com/Victorkaue333/seu-projeto) | Descrição breve do projeto | JavaScript |
+<div align="center">
+
+### 🚀 Meus Principais Repositórios
+
+</div>
+
+<table>
+<tr>
+<td>
+<div align="center">
+
+#### 🔹 [Projeto 1](https://github.com/Victorkaue333/seu-projeto)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Descrição breve do projeto**
+
+Detalhes sobre a funcionalidade e impacto do projeto.
+
+[⭐ Visitar](https://github.com/Victorkaue333/seu-projeto) • [📌 Issues](https://github.com/Victorkaue333/seu-projeto/issues)
+
+</div>
+</td>
+<td>
+<div align="center">
+
+#### 🔹 [Projeto 2](https://github.com/Victorkaue333/seu-projeto)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Descrição breve do projeto**
+
+Detalhes sobre a funcionalidade e impacto do projeto.
+
+[⭐ Visitar](https://github.com/Victorkaue333/seu-projeto) • [📌 Issues](https://github.com/Victorkaue333/seu-projeto/issues)
+
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center">
+
+#### 🔹 [Projeto 3](https://github.com/Victorkaue333/seu-projeto)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Descrição breve do projeto**
+
+Detalhes sobre a funcionalidade e impacto do projeto.
+
+[⭐ Visitar](https://github.com/Victorkaue333/seu-projeto) • [📌 Issues](https://github.com/Victorkaue333/seu-projeto/issues)
+
+</div>
+</td>
+<td>
+<div align="center">
+
+#### 🔹 [Projeto 4](https://github.com/Victorkaue333/seu-projeto)
+
+![Linguagem](https://img.shields.io/badge/Linguagem-cor?style=for-the-badge)
+![Tecnologia](https://img.shields.io/badge/Tecnologia-cor?style=for-the-badge)
+
+**Descrição breve do projeto**
+
+Detalhes sobre a funcionalidade e impacto do projeto.
+
+[⭐ Visitar](https://github.com/Victorkaue333/seu-projeto) • [📌 Issues](https://github.com/Victorkaue333/seu-projeto/issues)
+
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
