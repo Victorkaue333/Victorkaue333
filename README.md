@@ -98,32 +98,34 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 <td>
 <div align="center">
 
-#### 🔹 [Projeto 1](https://github.com/Victorkaue333/seu-projeto)
+#### � [AgendeAqui](https://github.com/Victorkaue333/AgendeAqui)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Descrição breve do projeto**
+**Sistema de gestão de espaços acadêmicos com agendamento inteligente**
 
-Detalhes sobre a funcionalidade e impacto do projeto.
+Plataforma web robusta para reserva de salas, laboratórios e espaços em instituições de ensino com autenticação, dashboard e notificações.
 
-[⭐ Visitar](https://github.com/Victorkaue333/seu-projeto) • [📌 Issues](https://github.com/Victorkaue333/seu-projeto/issues)
+[⭐ Visitar](https://github.com/Victorkaue333/AgendeAqui) • [📌 Issues](https://github.com/Victorkaue333/AgendeAqui/issues)
 
 </div>
 </td>
 <td>
 <div align="center">
 
-#### 🔹 [Projeto 2](https://github.com/Victorkaue333/seu-projeto)
+#### 🤖 [Dev-Job-Automation](https://github.com/Victorkaue333/Dev-Job-Automation)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E7CC3?style=for-the-badge&logo=google&logoColor=white)
 
-**Descrição breve do projeto**
+**Automação inteligente de busca de vagas para desenvolvedores**
 
-Detalhes sobre a funcionalidade e impacto do projeto.
+Bot que busca vagas em múltiplas plataformas, filtra por perfil e gera candidaturas personalizadas com IA (Google Gemini).
 
-[⭐ Visitar](https://github.com/Victorkaue333/seu-projeto) • [📌 Issues](https://github.com/Victorkaue333/seu-projeto/issues)
+[⭐ Visitar](https://github.com/Victorkaue333/Dev-Job-Automation) • [📌 Issues](https://github.com/Victorkaue333/Dev-Job-Automation/issues)
 
 </div>
 </td>
@@ -132,32 +134,34 @@ Detalhes sobre a funcionalidade e impacto do projeto.
 <td>
 <div align="center">
 
-#### 🔹 [Projeto 3](https://github.com/Victorkaue333/seu-projeto)
+#### 📝 [IA-Assistente de Propostas](https://github.com/Victorkaue333/IA-Assistente_de_Propostas_para_Freelancers-GenAI-)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E7CC3?style=for-the-badge&logo=google&logoColor=white)
 
-**Descrição breve do projeto**
+**Assistente IA para geração de propostas comerciais de freelancers**
 
-Detalhes sobre a funcionalidade e impacto do projeto.
+Ferramenta que transforma briefings em propostas profissionais com análise inteligente de tarefas, estimativas e cálculo de valores.
 
-[⭐ Visitar](https://github.com/Victorkaue333/seu-projeto) • [📌 Issues](https://github.com/Victorkaue333/seu-projeto/issues)
+[⭐ Visitar](https://github.com/Victorkaue333/IA-Assistente_de_Propostas_para_Freelancers-GenAI-) • [📌 Issues](https://github.com/Victorkaue333/IA-Assistente_de_Propostas_para_Freelancers-GenAI-/issues)
 
 </div>
 </td>
 <td>
 <div align="center">
 
-#### 🔹 [Projeto 4](https://github.com/Victorkaue333/seu-projeto)
+#### 🐾 [E-commerce PetShop](https://github.com/Victorkaue333/E-commerce_PetShop)
 
-![Linguagem](https://img.shields.io/badge/Linguagem-cor?style=for-the-badge)
-![Tecnologia](https://img.shields.io/badge/Tecnologia-cor?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Descrição breve do projeto**
+**E-commerce completo para loja de produtos de pet**
 
-Detalhes sobre a funcionalidade e impacto do projeto.
+Sistema robusto com carrinho de compras, checkout, simulação de pagamento, painel administrativo com relatórios e gestão de pedidos.
 
-[⭐ Visitar](https://github.com/Victorkaue333/seu-projeto) • [📌 Issues](https://github.com/Victorkaue333/seu-projeto/issues)
+[⭐ Visitar](https://github.com/Victorkaue333/E-commerce_PetShop) • [📌 Issues](https://github.com/Victorkaue333/E-commerce_PetShop/issues)
 
 </div>
 </td>
