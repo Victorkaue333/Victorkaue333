@@ -57,13 +57,13 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologias e Ferramentas:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,typescript,nodejs,git,github" />
 </p>
 
 ## <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30"> Frameworks e Bibliotecas:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,laravel,bootstrap,fastapi" />
+  <img src="https://skillicons.dev/icons?i=django,laravel,bootstrap,fastapi,react,nextjs" />
 </p>
 
 ## <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="30"> Bancos de Dados:
@@ -76,7 +76,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 ## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Plataformas e Serviços:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,netlify,vercel,firebase,githubactions" />
 </p>
 
 ---
