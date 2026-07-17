@@ -58,25 +58,26 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,typescript,nodejs,git,github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48" alt="Playwright" />
 </p>
 
 ## <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30"> Frameworks e Bibliotecas:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,laravel,bootstrap,fastapi,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=django,laravel,bootstrap,fastapi,react,nextjs,nestjs,tailwind" />
 </p>
 
 ## <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="30"> Bancos de Dados:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
 
 ## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Plataformas e Serviços:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,netlify,vercel,firebase,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,netlify,vercel,firebase,githubactions,sentry" />
 </p>
 
 ---
