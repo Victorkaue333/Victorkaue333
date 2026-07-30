@@ -53,32 +53,6 @@ Desenvolvedor **back-end** com foco em **Python e Django**, construindo sistemas
 
 ---
 
-## 📌 Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/Victorkaue333/SuplaStock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victorkaue333&repo=SuplaStock&bg_color=101726&title_color=ed9209&text_color=ffffff&icon_color=ed9209&border_color=ed9209" alt="SuplaStock — plataforma de gestão para lojas de suplementos com controle de estoque, vendas e análises, feita com Django" />
-  </a>
-  <a href="https://github.com/Victorkaue333/Dev-Job-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victorkaue333&repo=Dev-Job-Automation&bg_color=101726&title_color=ed9209&text_color=ffffff&icon_color=ed9209&border_color=ed9209" alt="Dev Job Automation — automação em Python para buscar vagas, filtrar por perfil e gerar candidaturas com IA" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Victorkaue333/E-commerce_PetShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victorkaue333&repo=E-commerce_PetShop&bg_color=101726&title_color=ed9209&text_color=ffffff&icon_color=ed9209&border_color=ed9209" alt="E-commerce PetShop — loja virtual construída com PHP e Laravel" />
-  </a>
-  <a href="https://github.com/Victorkaue333/VMEDPharma">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victorkaue333&repo=VMEDPharma&bg_color=101726&title_color=ed9209&text_color=ffffff&icon_color=ed9209&border_color=ed9209" alt="VMEDPharma — aplicação web construída com React" />
-  </a>
-</p>
-
-<p align="center">
-  ➕ Mais projetos no meu <a href="https://victor-kaue.vercel.app/"><strong>portfólio</strong></a> e nos <a href="https://github.com/Victorkaue333?tab=repositories">repositórios</a>.
-</p>
-
----
-
 ## 📊 Estatísticas GitHub
 
 <p align="center">
