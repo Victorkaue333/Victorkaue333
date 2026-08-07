@@ -1,10 +1,10 @@
 ![Banner de Victor Kauê — Back-end Developer](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:101726,50:1a2640,100:ed9209&text=Victor%20Kau%C3%AA&desc=Back-end%20Developer%20%7C%20Python%20%E2%80%A2%20Django&section=header&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=48&descAlign=50&descAlignY=62&fontColor=ffffff&descColor=ffffff)
 
-<h1 align="center">Olá! Eu sou o Victor Kauê 👋</h1>
+<h1 align="center">Olá! Eu sou o Victor Kauê!</h1>
 
 <p align="center">
   <a href="https://victor-kaue.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=ED9209&center=true&vCenter=true&width=520&lines=Back-end+Developer;APIs+REST+com+Django+%26+FastAPI;Front-end+com+React+%26+Next.js;Automa%C3%A7%C3%A3o+%26+IA+com+Python" alt="Back-end Developer | APIs REST com Django e FastAPI | Front-end com React e Next.js | Automação e IA com Python" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=ED9209&center=true&vCenter=true&width=520&lines=Back-end+Developer;APIs+REST+com+Django+%26+FastAPI;Front-end+com+React+%26+Next.js;Automa%C3%A7%C3%A3o+%26+IA+com+Python" alt="Full Stack Developer | APIs REST com Django e FastAPI | Automação e IA com Python" />
   </a>
 </p>
 
