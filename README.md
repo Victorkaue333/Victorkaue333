@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://victor-kaue.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=ED9209&center=true&vCenter=true&width=520&lines=Back-end+Developer;APIs+REST+com+Django+%26+FastAPI;Front-end+com+React+%26+Next.js;Automa%C3%A7%C3%A3o+%26+IA+com+Python" alt="Full Stack Developer | APIs REST com Django e FastAPI | Automação e IA com Python" />
   </a>
 </p>
 
