@@ -22,27 +22,27 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim:
 
 Desenvolvedor **back-end** com foco em **Python e Django**, construindo sistemas web, APIs REST e aplicações administrativas para problemas reais de negócio.
 
-- 🔧 Criação de **APIs REST** com **Django e FastAPI**;
-- 🐳 **Containerização com Docker** e **CI/CD com GitHub Actions**, com deploy em **Gunicorn e Nginx**;
-- 🗄️ Modelagem e integração de bancos: **PostgreSQL, MySQL, MongoDB e Redis**;
-- ⚛️ No front-end, trabalho com **React, Next.js, TypeScript e Tailwind CSS** quando o projeto exige;
-- 🤖 **Automação com Python**: bots, integrações com IA e processamento de dados.
+-  Criação de **APIs REST** com **Django e FastAPI**;
+-  **Containerização com Docker** e **CI/CD com GitHub Actions**, com deploy em **Gunicorn e Nginx**;
+-  Modelagem e integração de bancos: **PostgreSQL, MySQL, MongoDB e Redis**;
+-  No front-end, trabalho com **React, Next.js, TypeScript e Tailwind CSS** quando o projeto exige;
+-  **Automação com Python**: bots, integrações com IA e processamento de dados.
 
 💼 Conheça meu trabalho no **[portfólio](https://victor-kaue.vercel.app/)** ou veja os [projetos em destaque](#-projetos-em-destaque) abaixo.
 
 ---
 
-## 🚀 Stack principal
+##  Stack principal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git" alt="Python, Django, FastAPI, PostgreSQL, Redis, Docker e Git" />
 </p>
 
-### 🧰 Também trabalho com
+###  Também trabalho com
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,nodejs,tailwind,php,laravel,bootstrap" alt="JavaScript, TypeScript, React, Next.js, NestJS, Node.js, Tailwind CSS, PHP, Laravel e Bootstrap" />
