@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="panel" x1="0" x2="1">
+      <stop offset="0" stop-color="#0a0f14"/>
+      <stop offset="1" stop-color="#0d131a"/>
+    </linearGradient>
+    <linearGradient id="vk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00ff66"/>
+      <stop offset="1" stop-color="#1c7f46"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="22" fill="url(#panel)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="21" fill="none" stroke="#273343"/>
+
+  <rect x="40" y="40" width="315" height="260" rx="18" fill="#080d12" stroke="#22303f"/>
+  <circle cx="197" cy="155" r="84" fill="#0c1715" stroke="#00ff66" stroke-opacity=".45"/>
+  <text x="197" y="178" text-anchor="middle" fill="url(#vk)"
+        font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="900">VK</text>
+  <text x="197" y="255" text-anchor="middle" fill="#8b98a8"
+        font-family="Arial, Helvetica, sans-serif" font-size="14">developer profile</text>
+
+  <text x="410" y="74" fill="#ffffff" font-family="Arial, Helvetica, sans-serif"
+        font-size="28" font-weight="800">Victor Kauê</text>
+  <text x="410" y="103" fill="#00ff66" font-family="Arial, Helvetica, sans-serif"
+        font-size="17" font-weight="700">Back-end Developer</text>
+
+  <line x1="410" y1="125" x2="1145" y2="125" stroke="#273343"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16">
+    <text x="410" y="164" fill="#00ff66" font-weight="700">Foco</text>
+    <text x="555" y="164" fill="#dbe4ed">Python • Django • FastAPI</text>
+
+    <text x="410" y="198" fill="#00ff66" font-weight="700">Dados</text>
+    <text x="555" y="198" fill="#dbe4ed">PostgreSQL • MySQL • MongoDB • Redis</text>
+
+    <text x="410" y="232" fill="#00ff66" font-weight="700">Infra</text>
+    <text x="555" y="232" fill="#dbe4ed">Docker • Nginx • GitHub Actions</text>
+
+    <text x="410" y="266" fill="#00ff66" font-weight="700">Atuação</text>
+    <text x="555" y="266" fill="#dbe4ed">APIs • Sistemas web • Automação • IA</text>
+
+    <text x="410" y="300" fill="#00ff66" font-weight="700">Localização</text>
+    <text x="555" y="300" fill="#dbe4ed">Itacuruba • PE • Brasil</text>
+  </g>
+</svg>
