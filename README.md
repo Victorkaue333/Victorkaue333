@@ -1,100 +1,93 @@
 <div align="center">
 
-victor@github:~$ whoami
-Victor Kauê
-Back-end Developer
-Python • Django • FastAPI • PostgreSQL • Docker
+<img src="assets/terminal-hero.svg" width="100%" alt="Terminal de Victor Kauê" />
 
-victor@github:~$ _
+<br/>
 
 <a href="mailto:kaue.alves.pg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117" alt="Enviar e-mail para Victor Kauê" />
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff66&labelColor=0d1117" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/victor-kau%C3%AA-419926364/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117" alt="LinkedIn de Victor Kauê" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff66&labelColor=0d1117" alt="LinkedIn" />
 </a>
 <a href="https://victor-kaue.vercel.app/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=0d1117" alt="Portfólio de Victor Kauê" />
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff66&labelColor=0d1117" alt="Portfólio" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" alt="Contador de visualizações do perfil" />
+<img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=PROFILE+VIEWS&color=00ff66&style=for-the-badge" alt="Profile views" />
 
 </div>
+
+<br/>
 
 $ cat about.md
 
 Desenvolvedor back-end com foco em Python, Django e FastAPI, construindo sistemas web, APIs REST e aplicações administrativas para problemas reais de negócio.
 
-> Criação de APIs REST com Django e FastAPI;
+> Criação de APIs REST com Django e FastAPI
+> Docker + CI/CD com GitHub Actions, com deploy em Gunicorn e Nginx
+> PostgreSQL, MySQL, MongoDB e Redis
+> React, Next.js, TypeScript e Tailwind CSS quando o projeto exige
+> Automação com Python, bots, integrações com IA e processamento de dados
 
-> Containerização com Docker e CI/CD com GitHub Actions, com deploy em Gunicorn e Nginx;
+<div align="center">
 
-> Modelagem e integração de bancos: PostgreSQL, MySQL, MongoDB e Redis;
+<a href="https://victor-kaue.vercel.app/">
+  <img src="https://img.shields.io/badge/%3E_%20ABRIR%20PORTF%C3%93LIO-00ff66?style=for-the-badge&logo=vercel&logoColor=050705&labelColor=00ff66" alt="Abrir portfólio" />
+</a>
 
-> No front-end, trabalho com React, Next.js, TypeScript e Tailwind CSS quando o projeto exige;
+</div>
 
-> Automação com Python: bots, integrações com IA e processamento de dados.
+<img src="assets/neofetch-vk.svg" width="100%" alt="Neofetch de Victor Kauê" />
 
-💼 Conheça meu trabalho no portfólio.
+$ ls ~/stack
 
-$ neofetch
-
-██╗   ██╗██╗  ██╗        victor@github
-██║   ██║██║ ██╔╝        -------------------------
-██║   ██║█████╔╝         Role: Back-end Developer
-╚██╗ ██╔╝██╔═██╗         Language: Python
- ╚████╔╝ ██║  ██╗        Framework: Django / FastAPI
-  ╚═══╝  ╚═╝  ╚═╝        Database: PostgreSQL
-                         Infra: Docker / Nginx
-                         CI/CD: GitHub Actions
-                         Status: building real things
-
-$ ls stack/core
-
-Stack principal
+./core
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git" alt="Python, Django, FastAPI, PostgreSQL, Redis, Docker e Git" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git&theme=dark" alt="Stack principal" />
 </p>
 
-Também trabalho com
+./also-use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,nodejs,tailwind,php,laravel,bootstrap" alt="JavaScript, TypeScript, React, Next.js, NestJS, Node.js, Tailwind CSS, PHP, Laravel e Bootstrap" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,mongodb,firebase,sentry,githubactions,netlify,vercel" alt="HTML5, CSS, MySQL, MongoDB, Firebase, Sentry, GitHub Actions, Netlify e Vercel" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,nodejs,tailwind,php,laravel,bootstrap&theme=dark" alt="Também trabalho com" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,mongodb,firebase,sentry,githubactions,netlify,vercel&theme=dark" alt="Outras tecnologias" />
+  &nbsp;
   <img src="assets/playwright.svg" height="48" alt="Playwright" />
 </p>
 
 $ github-stats --summary
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Victorkaue333&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=30363d"
-    alt="Estatísticas do GitHub de Victor Kauê"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=8&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d"
-    alt="Linguagens mais usadas por Victor Kauê"
-  />
-</p>
+<div align="center">
 
-// O card de streak foi removido porque estava falhando no seu perfil.
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Victorkaue333&show_icons=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9&icon_color=00ff66"
+alt="Estatísticas do GitHub"
+/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9"
+alt="Linguagens mais usadas"
+/>
+
+</div>
 
 $ cat contact.txt
 
-<p align="center">
-  <a href="mailto:kaue.alves.pg@gmail.com">
-    <img src="https://img.shields.io/badge/kaue.alves.pg%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="E-mail: kaue.alves.pg@gmail.com" />
-  </a>
-  <a href="https://www.linkedin.com/in/victor-kau%C3%AA-419926364/">
-    <img src="https://img.shields.io/badge/Victor_Kau%C3%AA-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn: Victor Kauê" />
-  </a>
-  <a href="https://victor-kaue.vercel.app/">
-    <img src="https://img.shields.io/badge/victor--kaue.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41" alt="Portfólio: victor-kaue.vercel.app" />
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:kaue.alves.pg@gmail.com">
+  <img src="https://img.shields.io/badge/kaue.alves.pg%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff66" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/victor-kau%C3%AA-419926364/">
+  <img src="https://img.shields.io/badge/Victor%20Kau%C3%AA-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff66" alt="LinkedIn" />
+</a>
+<a href="https://victor-kaue.vercel.app/">
+  <img src="https://img.shields.io/badge/victor--kaue.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff66" alt="Portfólio" />
+</a>
+
+</div>
 
 $ fortune
 
