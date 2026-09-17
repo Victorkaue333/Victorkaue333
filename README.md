@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="assets/flow-field.svg" width="100%" alt="Campo vetorial gerativo — densidade proporcional aos commits" />
+
+<br/>
+
 <img src="assets/hero-matrix.svg" width="100%" alt="Victor Kauê — Back-end Developer" />
 
 <br/>
