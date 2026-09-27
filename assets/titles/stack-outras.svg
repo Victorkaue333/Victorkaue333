@@ -1,13 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="52" viewBox="0 0 840 52" role="img" aria-label="02.1 — Também trabalho com" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
-<title>02.1 — Também trabalho com</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="52" viewBox="0 0 840 52" role="img" aria-label="Também trabalho com" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<title>Também trabalho com</title>
+<defs>
+  <linearGradient id="gl" gradientUnits="userSpaceOnUse" x1="0" x2="248" y1="0" y2="0"><stop offset="0" class="s0"/><stop offset="1" class="s1"/></linearGradient>
+  <linearGradient id="gr" gradientUnits="userSpaceOnUse" x1="592" x2="840" y1="0" y2="0"><stop offset="0" class="s1"/><stop offset="1" class="s0"/></linearGradient>
+</defs>
 <style>
-.n { fill: #ff7a00; } .t { fill: #ffffff; } .r { stroke: #333333; }
-@media (prefers-color-scheme: light) { .t { fill: #1f2328; } .r { stroke: #d0d7de; } }
-.r { stroke-dasharray: 423; stroke-dashoffset: 423; animation: draw .9s cubic-bezier(.2,.8,.2,1) .15s forwards; }
-@keyframes draw { to { stroke-dashoffset: 0; } }
-@media (prefers-reduced-motion: reduce) { .r { stroke-dashoffset: 0; animation: none; } }
+.t { fill: #ffffff; }
+.s0 { stop-color: #808080; stop-opacity: 0; } .s1 { stop-color: #808080; stop-opacity: .9; }
+@media (prefers-color-scheme: light) { .t { fill: #1f2328; } .s0, .s1 { stop-color: #8c959f; } }
+.r { stroke-dasharray: 248; animation: grow .9s cubic-bezier(.2,.8,.2,1) .15s backwards; }
+@keyframes grow { from { stroke-dashoffset: 248; } }
+@media (prefers-reduced-motion: reduce) { .r { animation: none; } }
 </style>
-<text class="n" x="2" y="34" font-size="22" font-weight="700" letter-spacing="4">02.1</text>
-<line class="r" x1="93" y1="26.8" x2="516" y2="26.8" stroke-width="1.5"/>
-<text class="t" x="838" y="34" text-anchor="end" font-size="20" font-weight="700" textLength="300" lengthAdjust="spacing">TAMBÉM TRABALHO COM</text>
+<line class="r" x1="248" y1="26.8" x2="0" y2="26.8" stroke="url(#gl)" stroke-width="1.5"/>
+<line class="r" x1="592" y1="26.8" x2="840" y2="26.8" stroke="url(#gr)" stroke-width="1.5"/>
+<text class="t" x="270.0" y="34" font-size="20" font-weight="700" textLength="300" lengthAdjust="spacing">TAMBÉM TRABALHO COM</text>
 </svg>

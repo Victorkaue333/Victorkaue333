@@ -1,13 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="64" viewBox="0 0 840 64" role="img" aria-label="04 — Estatísticas GitHub" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
-<title>04 — Estatísticas GitHub</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="64" viewBox="0 0 840 64" role="img" aria-label="Estatísticas GitHub" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<title>Estatísticas GitHub</title>
+<defs>
+  <linearGradient id="gl" gradientUnits="userSpaceOnUse" x1="0" x2="214" y1="0" y2="0"><stop offset="0" class="s0"/><stop offset="1" class="s1"/></linearGradient>
+  <linearGradient id="gr" gradientUnits="userSpaceOnUse" x1="626" x2="840" y1="0" y2="0"><stop offset="0" class="s1"/><stop offset="1" class="s0"/></linearGradient>
+</defs>
 <style>
-.n { fill: #ff7a00; } .t { fill: #ffffff; } .r { stroke: #333333; }
-@media (prefers-color-scheme: light) { .t { fill: #1f2328; } .r { stroke: #d0d7de; } }
-.r { stroke-dasharray: 380; stroke-dashoffset: 380; animation: draw .9s cubic-bezier(.2,.8,.2,1) .15s forwards; }
-@keyframes draw { to { stroke-dashoffset: 0; } }
-@media (prefers-reduced-motion: reduce) { .r { stroke-dashoffset: 0; animation: none; } }
+.t { fill: #ffffff; }
+.s0 { stop-color: #808080; stop-opacity: 0; } .s1 { stop-color: #808080; stop-opacity: .9; }
+@media (prefers-color-scheme: light) { .t { fill: #1f2328; } .s0, .s1 { stop-color: #8c959f; } }
+.r { stroke-dasharray: 214; animation: grow .9s cubic-bezier(.2,.8,.2,1) .15s backwards; }
+@keyframes grow { from { stroke-dashoffset: 214; } }
+@media (prefers-reduced-motion: reduce) { .r { animation: none; } }
 </style>
-<text class="n" x="2" y="42" font-size="30" font-weight="700" letter-spacing="4">04</text>
-<line class="r" x1="68" y1="32.6" x2="448" y2="32.6" stroke-width="1.5"/>
-<text class="t" x="838" y="42" text-anchor="end" font-size="26" font-weight="700" textLength="368" lengthAdjust="spacing">ESTATÍSTICAS GITHUB</text>
+<line class="r" x1="214" y1="32.6" x2="0" y2="32.6" stroke="url(#gl)" stroke-width="1.5"/>
+<line class="r" x1="626" y1="32.6" x2="840" y2="32.6" stroke="url(#gr)" stroke-width="1.5"/>
+<text class="t" x="235.8" y="42" font-size="26" font-weight="700" textLength="368" lengthAdjust="spacing">ESTATÍSTICAS GITHUB</text>
 </svg>

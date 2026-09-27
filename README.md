@@ -23,11 +23,11 @@
 
 </div>
 
-<img src="assets/titles/sobre-mim.svg" alt="01 — Sobre mim" />
+<img src="assets/titles/sobre-mim.svg" alt="Sobre mim" />
 
 Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou formado em Desenvolvimento de Sistemas e estou me graduando em Gestão da Tecnologia da Informação no IF Sertão-PE. Trabalho com APIs, regras de negócio, modelagem de dados, interface web e deploy, com atenção a arquitetura limpa, segurança e valor de negócio.
 
-<img src="assets/titles/foco.svg" alt="01.1 — No que eu foco" />
+<img src="assets/titles/foco.svg" alt="No que eu foco" />
 
 - **Backend**: regras de negócio consistentes, autenticação segura e modelagem de dados pensada para escalar.
 - **APIs**: APIs REST com foco em performance, integração e manutenção de longo prazo.
@@ -39,13 +39,13 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <a href="https://victor-kaue.vercel.app/"><img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-ff7a00?style=for-the-badge&logo=vercel&logoColor=050505" alt="Ver portfólio" /></a>
 </p>
 
-<img src="assets/titles/stack.svg" alt="02 — Stack principal" />
+<img src="assets/titles/stack.svg" alt="Stack principal" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nestjs,nodejs,tailwind,python,django,fastapi,postgres,redis,docker,git&theme=dark" height="48" alt="TypeScript, React, Next.js, NestJS, Node.js, Tailwind CSS, Python, Django, FastAPI, PostgreSQL, Redis, Docker e Git" />
 </p>
 
-<img src="assets/titles/stack-outras.svg" alt="02.1 — Também trabalho com" />
+<img src="assets/titles/stack-outras.svg" alt="Também trabalho com" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,nodejs,tailwind&theme=dark" height="48" alt="JavaScript, TypeScript, React, Next.js, NestJS, Node.js e Tailwind CSS" />
@@ -55,7 +55,7 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <img src="https://skillicons.dev/icons?i=firebase,sentry,githubactions,netlify,vercel&theme=dark" height="48" alt="Firebase, Sentry, GitHub Actions, Netlify e Vercel" />  <img src="assets/playwright.svg" width="48" height="48" alt="Playwright" />
 </p>
 
-<img src="assets/titles/projetos.svg" alt="03 — Projetos pessoais em destaque" />
+<img src="assets/titles/projetos.svg" alt="Projetos pessoais em destaque" />
 
 <p align="center">
   <a href="https://sertaoconecta.floresta.ifsertao-pe.edu.br/"><img src="assets/projects/sertao-conecta.svg" width="270" alt="Projeto 01 — Sertão Conecta: ambiente virtual de aprendizagem gamificado e multicursos do IF Sertão-PE, em produção. TypeScript, React, Supabase e PWA. Acessar a plataforma." /></a>
@@ -69,7 +69,7 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
 
 <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-activity.svg" width="100%" alt="Resumo de atividade dos últimos 12 meses: total de contribuições, dias ativos, melhor dia, dia da semana mais ativo, distribuição por mês e composição por tipo." />
 
-<img src="assets/titles/estatisticas.svg" alt="04 — Estatísticas GitHub" />
+<img src="assets/titles/estatisticas.svg" alt="Estatísticas GitHub" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-stats.svg" height="170" alt="Visão geral do GitHub de Victor Kauê" />
