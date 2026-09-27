@@ -11,7 +11,7 @@ README de perfil do GitHub de **Victor Kauê** (`Victorkaue333`), dev back-end (
 
 ## Estrutura
 
-- `README.md` — o perfil. Ordem: hero, badges, `whoami` (retrato + wordmark), Sobre mim (+ No que eu foco), Stack principal (+ Também trabalho com), Projetos pessoais em destaque (4 cards em grade 2 × 2), Projetos corporativos em destaque (3 em linha), `./contributions.sh` (heatmap), Estatísticas GitHub, frase do Cortella e rodapé com a foto do setup.
+- `README.md` — o perfil. Ordem: hero, badges, `whoami` (retrato + wordmark), Sobre mim (+ No que eu foco), Stack principal (+ Também trabalho com), Projetos pessoais em destaque (4 cards em grade 2 × 2), Projetos corporativos em destaque (3 em linha), Estatísticas GitHub (título → `./contributions.sh` com o heatmap → card de atividade → cards de stats e linguagens), frase do Cortella e rodapé com a foto do setup.
   - Os cards têm `width="270"`. Com 4 numa seção, um `<br/>` depois do 2º monta a grade 2 × 2, porque 4 em linha estouram a largura do README.
 - `assets/` — SVGs **estáticos**, versionados na `main`:
   - `hero.svg` e `footer.svg` — banners de foto do **mesmo tamanho** (1200×404), gerados por `scripts/banners.py` a partir de `images/`. As fotos vão embutidas em base64 como WebP, com `mix-blend-mode: screen` para o preto sumir no fundo do card.
