@@ -1,146 +1,108 @@
 <div align="center">
-
-<img src="assets/flow-field.svg" width="100%" alt="Campo vetorial gerativo — densidade proporcional aos commits" />
-
-<br/>
-
-<img src="assets/hero-matrix.svg" width="100%" alt="Victor Kauê — Back-end Developer" />
-
-<br/>
-
-<a href="mailto:kaue.alves.pg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff66" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/victor-kau%C3%AA-419926364/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff66" alt="LinkedIn" />
-</a>
-<a href="https://victor-kaue.vercel.app/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff66" alt="Portfólio" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=PROFILE+VIEWS&color=00ff66&style=for-the-badge" alt="Visualizações do perfil" />
-
+  <img src="assets/hero.svg" width="100%" alt="Victor Kauê — mãos da Criação de Adão" />
 </div>
 
-<br/>
+<p align="center">
+<a href="mailto:kaue.alves.pg@gmail.com"><img src="https://img.shields.io/badge/Gmail-050505?style=for-the-badge&logo=gmail&logoColor=ff7a00" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/victor-kau%C3%AA"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmN2EwMCIgZD0iTTUgMmgxNGEzIDMgMCAwIDEgMyAzdjE0YTMgMyAwIDAgMS0zIDNINWEzIDMgMCAwIDEtMy0zVjVhMyAzIDAgMCAxIDMtM3ptMS42IDcuNHY4LjZoMi44VjkuNHpNOCA1LjJhMS42IDEuNiAwIDEgMCAwIDMuMiAxLjYgMS42IDAgMCAwIDAtMy4yem0zLjYgNC4yVjE4aDIuOHYtNC42YzAtMS4zLjYtMiAxLjYtMnMxLjQuNyAxLjQgMlYxOGgyLjh2LTUuM2MwLTIuNi0xLjQtMy41LTMuMS0zLjUtMS4zIDAtMi4yLjYtMi43IDEuNFY5LjR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+<a href="https://victor-kaue.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-050505?style=for-the-badge&logo=vercel&logoColor=ff7a00" alt="Portfólio" /></a>
+<img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=Profile+Views&color=b35500&style=for-the-badge" alt="Visualizações do perfil" />
+</p>
+
+<!-- retrato ASCII (digita linha a linha) + wordmark 3D em ASCII (balança): python scripts/whoami.py -->
+<div align="center">
+
+<h3><code>victor@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="assets/portrait.svg" width="400" alt="Victor Kauê — retrato em ASCII" /></td>
+    <td valign="top"><img src="assets/wordmark.svg" width="400" alt="VK — wordmark 3D em ASCII" /></td>
+  </tr>
+</table>
+
+</div>
 
 ## Sobre mim
 
-Desenvolvedor **back-end** com foco em **Python, Django e FastAPI**, construindo sistemas web, APIs REST e aplicações administrativas para problemas reais de negócio.
+Desenvolvedor **Full Stack** com foco em **Python, Django e FastAPI**, construindo sistemas web, APIs REST e aplicações administrativas para problemas reais de negócio.
 
-- Criação de **APIs REST** com **Django e FastAPI**;
-- **Docker e CI/CD com GitHub Actions**, com deploy em **Gunicorn e Nginx**;
-- Modelagem e integração de bancos: **PostgreSQL, MySQL, MongoDB e Redis**;
-- Desenvolvimento com **React, Next.js, TypeScript e Tailwind CSS** quando o projeto exige;
-- **Automação com Python**, bots, integrações com IA e processamento de dados.
+- **APIs REST** com Django e FastAPI
+- **Docker** e **CI/CD** com GitHub Actions
+- **PostgreSQL**, **MySQL**, **MongoDB** e **Redis**
+- **Automação** com Python e IA
+- **React**, **Next.js**, **TypeScript** e **Tailwind CSS** quando necessário
 
-<div align="center">
-
-<a href="https://victor-kaue.vercel.app/">
-  <img src="https://img.shields.io/badge/VER%20PORTF%C3%93LIO-00ff66?style=for-the-badge&logo=vercel&logoColor=050705" alt="Ver portfólio" />
-</a>
-
-</div>
-
-<br/>
-
-## Perfil
-
-<img src="assets/profile-card.svg" width="100%" alt="Resumo profissional de Victor Kauê" />
-
-<br/>
+<p align="center">
+  <a href="https://victor-kaue.vercel.app/"><img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-ff7a00?style=for-the-badge&logo=vercel&logoColor=050505" alt="Ver portfólio" /></a>
+</p>
 
 ## Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git&theme=dark" alt="Python, Django, FastAPI, PostgreSQL, Redis, Docker e Git" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git&theme=dark" height="48" alt="Python, Django, FastAPI, PostgreSQL, Redis, Docker e Git" />
 </p>
 
 ### Também trabalho com
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,nodejs,tailwind,php,laravel,bootstrap&theme=dark" alt="JavaScript, TypeScript, React, Next.js, NestJS, Node.js, Tailwind CSS, PHP, Laravel e Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,nodejs,tailwind&theme=dark" height="48" alt="JavaScript, TypeScript, React, Next.js, NestJS, Node.js e Tailwind CSS" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,mongodb,firebase,sentry,githubactions,netlify,vercel&theme=dark" alt="HTML, CSS, MySQL, MongoDB, Firebase, Sentry, GitHub Actions, Netlify e Vercel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,html,css,mysql,mongodb&theme=dark" height="48" alt="PHP, Laravel, Bootstrap, HTML, CSS, MySQL e MongoDB" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=00ff66" alt="Playwright" />
+  <img src="https://skillicons.dev/icons?i=firebase,sentry,githubactions,netlify,vercel&theme=dark" height="48" alt="Firebase, Sentry, GitHub Actions, Netlify e Vercel" />  <img src="assets/playwright.svg" width="48" height="48" alt="Playwright" />
 </p>
 
-<br/>
+## Projetos pessoais em destaque:
 
-## Projetos em destaque
+<p align="center">
+  <a href="https://sertaoconecta.floresta.ifsertao-pe.edu.br"><img src="assets/projects/sertao-conecta.svg" width="270" alt="Projeto 01 — Sertão Conecta: ambiente virtual de aprendizagem gamificado e multicursos do IF Sertão-PE, em produção. TypeScript, React, Supabase e PWA. Acessar a plataforma." /></a>
+  <a href="https://github.com/Victorkaue333/SuplaStock"><img src="assets/projects/suplastock.svg" width="270" alt="Projeto 02 — SuplaStock: sistema web em Django para gestão de loja de suplementos. Python, Django, PostgreSQL e Nginx. Abrir repositório no GitHub." /></a>
+  <a href="https://github.com/Victorkaue333/AgendeAqui"><img src="assets/projects/agendeaqui.svg" width="270" alt="Projeto 03 — AgendeAqui: sistema em Django para agendamento de salas e laboratórios, com checagem de conflitos, aprovação e avisos por e-mail. Python, Django, Celery e Redis. Abrir repositório no GitHub." /></a>
+</p>
 
-<img src="assets/projects.svg" width="100%" alt="Projetos em destaque de Victor Kauê" />
+<p align="center">
+  <a href="https://github.com/Victorkaue333?tab=repositories"><img src="https://img.shields.io/badge/Todos%20os%20reposit%C3%B3rios-050505?style=for-the-badge&logo=github&logoColor=ff7a00" alt="Ver todos os repositórios" /></a>
+</p>
 
+<!-- heatmap animado com dados reais: células surgem uma a uma (scripts/heatmap.py, regerado todo dia pelo workflow) -->
 <div align="center">
 
-<a href="https://victor-kaue.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORAR%20PROJETOS-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff66" alt="Explorar projetos no portfólio" />
-</a>
-
-</div>
-
-<br/>
-
-## Atividade no GitHub
-
-<div align="center">
+<h3><code>victor@github ~ $ ./contributions.sh</code></h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação das contribuições de Victor Kauê" src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-heatmap-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-heatmap.svg" />
+  <img alt="Heatmap de contribuições de Victor Kauê nos últimos 12 meses, atualizado diariamente" src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-heatmap-dark.svg" width="100%" />
 </picture>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-activity.svg" width="100%" alt="Resumo de atividade dos últimos 12 meses: total de contribuições, dias ativos, melhor dia, dia da semana mais ativo, distribuição por mês e composição por tipo." />
 
 ## Estatísticas GitHub
 
-<div align="center">
-
-<img height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Victorkaue333&show_icons=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9&icon_color=00ff66"
-  alt="Estatísticas do GitHub de Victor Kauê"
-/>
-
-<img height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorkaue333&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9"
-  alt="Linguagens mais usadas por Victor Kauê"
-/>
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-stats.svg" height="170" alt="Visão geral do GitHub de Victor Kauê" />
+  <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-top-langs.svg" height="170" alt="Linguagens mais usadas por Victor Kauê" />
+</p>
 
 ## Contato
 
-<div align="center">
-
-<a href="mailto:kaue.alves.pg@gmail.com">
-  <img src="https://img.shields.io/badge/kaue.alves.pg%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff66" alt="E-mail" />
-</a>
-<a href="https://www.linkedin.com/in/victor-kau%C3%AA-419926364/">
-  <img src="https://img.shields.io/badge/Victor%20Kau%C3%AA-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff66" alt="LinkedIn" />
-</a>
-<a href="https://victor-kaue.vercel.app/">
-  <img src="https://img.shields.io/badge/victor--kaue.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff66" alt="Portfólio" />
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:kaue.alves.pg@gmail.com"><img src="https://img.shields.io/badge/kaue.alves.pg%40gmail.com-050505?style=for-the-badge&logo=gmail&logoColor=ff7a00" alt="E-mail: kaue.alves.pg@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/victor-kau%C3%AA"><img src="https://img.shields.io/badge/Victor%20Kau%C3%AA-050505?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmN2EwMCIgZD0iTTUgMmgxNGEzIDMgMCAwIDEgMyAzdjE0YTMgMyAwIDAgMS0zIDNINWEzIDMgMCAwIDEtMy0zVjVhMyAzIDAgMCAxIDMtM3ptMS42IDcuNHY4LjZoMi44VjkuNHpNOCA1LjJhMS42IDEuNiAwIDEgMCAwIDMuMiAxLjYgMS42IDAgMCAwIDAtMy4yem0zLjYgNC4yVjE4aDIuOHYtNC42YzAtMS4zLjYtMiAxLjYtMnMxLjQuNyAxLjQgMlYxOGgyLjh2LTUuM2MwLTIuNi0xLjQtMy41LTMuMS0zLjUtMS4zIDAtMi4yLjYtMi43IDEuNFY5LjR6Ii8%2BPC9zdmc%2B" alt="LinkedIn: Victor Kauê" /></a>
+  <a href="https://victor-kaue.vercel.app/"><img src="https://img.shields.io/badge/victor--kaue.vercel.app-050505?style=for-the-badge&logo=vercel&logoColor=ff7a00" alt="Portfólio: victor-kaue.vercel.app" /></a>
+</p>
 
 <br/>
 
----
+<p align="center">
+  <em>"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores para fazer melhor ainda!"</em>
+  <br/><br/>
+  <sub>— Mario Sergio Cortella</sub>
+</p>
 
-<div align="center">
-
-*"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores para fazer melhor ainda!"*
-
-**— Mario Sergio Cortella**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,42:0d1117,100:050705&height=90&section=footer" width="100%" alt="Rodapé" />
-
-</div>
+<p align="center">
+  <img src="assets/footer.svg" width="360" alt="" />
+</p>
