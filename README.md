@@ -56,7 +56,7 @@ Desenvolvedor **Full Stack** com foco em **Python, Django e FastAPI**, construin
 ## Projetos pessoais em destaque:
 
 <p align="center">
-  <a href="https://sertaoconecta.floresta.ifsertao-pe.edu.br"><img src="assets/projects/sertao-conecta.svg" width="270" alt="Projeto 01 — Sertão Conecta: ambiente virtual de aprendizagem gamificado e multicursos do IF Sertão-PE, em produção. TypeScript, React, Supabase e PWA. Acessar a plataforma." /></a>
+  <a href="https://sertaoconecta.floresta.ifsertao-pe.edu.br/"><img src="assets/projects/sertao-conecta.svg" width="270" alt="Projeto 01 — Sertão Conecta: ambiente virtual de aprendizagem gamificado e multicursos do IF Sertão-PE, em produção. TypeScript, React, Supabase e PWA. Acessar a plataforma." /></a>
   <a href="https://github.com/Victorkaue333/SuplaStock"><img src="assets/projects/suplastock.svg" width="270" alt="Projeto 02 — SuplaStock: sistema web em Django para gestão de loja de suplementos. Python, Django, PostgreSQL e Nginx. Abrir repositório no GitHub." /></a>
   <a href="https://github.com/Victorkaue333/AgendeAqui"><img src="assets/projects/agendeaqui.svg" width="270" alt="Projeto 03 — AgendeAqui: sistema em Django para agendamento de salas e laboratórios, com checagem de conflitos, aprovação e avisos por e-mail. Python, Django, Celery e Redis. Abrir repositório no GitHub." /></a>
 </p>
