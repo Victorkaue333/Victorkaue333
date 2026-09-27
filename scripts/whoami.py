@@ -1,9 +1,10 @@
-"""Gera o par de janelas de terminal da seção whoami do README:
+"""Gera assets/whoami.svg, a seção whoami do README: duas janelas de terminal
+lado a lado dentro de uma moldura fina, no estilo dos outros cards.
 
-  assets/portrait.svg  retrato em ASCII que "digita" linha a linha e congela
-  assets/wordmark.svg  iniciais extrudadas em 3D, rasterizadas em ASCII, balançando
+  retrato  em ASCII, que "digita" linha a linha e congela
+  wordmark iniciais extrudadas em 3D, rasterizadas em ASCII, balançando
 
-Uso (local; os SVGs são estáticos, só regerar se a foto ou o texto mudar):
+Uso (local; o SVG é estático, só regerar se a foto ou o texto mudar):
     pip install -r scripts/requirements.txt
     python scripts/whoami.py [foto]
 
@@ -15,6 +16,7 @@ Técnica adaptada de github.com/AVIVASHISHTA29/AVIVASHISHTA29.
 import io
 import math
 import os
+import re
 import sys
 import urllib.request
 from xml.sax.saxutils import escape
@@ -32,10 +34,10 @@ USER = "victor"  # usuário do prompt nas janelas
 WORD = os.environ.get("WORDMARK_TEXT", "VK")
 FONT = os.environ.get("WORDMARK_FONT", "GOTHICB.TTF")  # Century Gothic Bold (Windows)
 
-# largura de exibição no README; a altura do wordmark é derivada destas para as
-# duas janelas ficarem com a mesma altura lado a lado. iguais = mesma proporção,
-# então as alturas continuam batendo quando a tabela encolhe em telas estreitas
+# largura de cada janela dentro da moldura; a altura do wordmark é derivada
+# destas para as duas janelas ficarem com a mesma altura lado a lado
 PORTRAIT_SHOW, WORDMARK_SHOW = 400, 400
+FRAME_PAD, FRAME_GAP = 24, 16  # margem da moldura e espaço entre as janelas
 
 PAD = 20
 BAR_H = 30
@@ -287,11 +289,33 @@ def wordmark(height: float) -> str:
     return window(W, height, f"{USER}@github: ~$ ./wordmark.sh --3d", f"{WORD} — wordmark 3D em ASCII", "".join(body))
 
 
+# ------------------------------------------------------------------- moldura
+def framed(left: str, right: str, h: float) -> str:
+    """As duas janelas como <svg> aninhados (cada uma com seu viewBox) dentro de
+    uma moldura fina arredondada. Os ids internos não colidem (r0..rN / wipe)."""
+    W = 2 * FRAME_PAD + PORTRAIT_SHOW + FRAME_GAP + WORDMARK_SHOW
+    H = 2 * FRAME_PAD + h
+
+    def nest(svg: str, x: float, w: float) -> str:
+        return re.sub(r'width="[^"]+" height="[^"]+"', f'x="{x:.0f}" y="{FRAME_PAD}" width="{w}" height="{h:.1f}"',
+                      svg.strip(), count=1)
+
+    label = f"{NAME} — retrato em ASCII e wordmark {WORD} em 3D"
+    return (
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H:.0f}" viewBox="0 0 {W} {H:.0f}" '
+        f'role="img" aria-label="{escape(label)}"><title>{escape(label)}</title>'
+        f'<rect x=".5" y=".5" width="{W - 1}" height="{H - 1:.0f}" rx="18" fill="{BG}" stroke="{FAINT}"/>'
+        f'{nest(left, FRAME_PAD, PORTRAIT_SHOW)}'
+        f'{nest(right, FRAME_PAD + PORTRAIT_SHOW + FRAME_GAP, WORDMARK_SHOW)}'
+        '</svg>\n'
+    )
+
+
 def main() -> None:
-    svg, shown_h = portrait(ascii_rows(prep(load_photo(sys.argv[1] if len(sys.argv) > 1 else None))))
-    save("portrait.svg", svg)
+    left, shown_h = portrait(ascii_rows(prep(load_photo(sys.argv[1] if len(sys.argv) > 1 else None))))
     # mesma altura exibida: altura_real = altura_exibida * largura_real / largura_exibida
-    save("wordmark.svg", wordmark(shown_h * (W_COLS * W_CW + 2 * PAD) / WORDMARK_SHOW))
+    right = wordmark(shown_h * (W_COLS * W_CW + 2 * PAD) / WORDMARK_SHOW)
+    save("whoami.svg", framed(left, right, shown_h))
 
 
 if __name__ == "__main__":

@@ -14,12 +14,7 @@
 <!-- retrato ASCII (digita linha a linha) + wordmark 3D em ASCII (balança): python scripts/whoami.py -->
 <div align="center">
 
-<table>
-  <tr>
-    <td valign="top"><img src="assets/portrait.svg" width="400" alt="Victor Kauê — retrato em ASCII" /></td>
-    <td valign="top"><img src="assets/wordmark.svg" width="400" alt="VK — wordmark 3D em ASCII" /></td>
-  </tr>
-</table>
+<img src="assets/whoami.svg" width="100%" alt="Victor Kauê — retrato em ASCII e wordmark VK em 3D" />
 
 </div>
 
