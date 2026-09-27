@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="64" viewBox="0 0 840 64" role="img" aria-label="Projetos corporativos em destaque" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<title>Projetos corporativos em destaque</title>
+<defs>
+  <linearGradient id="gl" gradientUnits="userSpaceOnUse" x1="0" x2="77" y1="0" y2="0"><stop offset="0" class="s0"/><stop offset="1" class="s1"/></linearGradient>
+  <linearGradient id="gr" gradientUnits="userSpaceOnUse" x1="763" x2="840" y1="0" y2="0"><stop offset="0" class="s1"/><stop offset="1" class="s0"/></linearGradient>
+</defs>
+<style>
+.t { fill: #ffffff; }
+.s0 { stop-color: #808080; stop-opacity: 0; } .s1 { stop-color: #808080; stop-opacity: .9; }
+@media (prefers-color-scheme: light) { .t { fill: #1f2328; } .s0, .s1 { stop-color: #8c959f; } }
+.r { stroke-dasharray: 77; animation: grow .9s cubic-bezier(.2,.8,.2,1) .15s backwards; }
+@keyframes grow { from { stroke-dashoffset: 77; } }
+@media (prefers-reduced-motion: reduce) { .r { animation: none; } }
+</style>
+<line class="r" x1="77" y1="32.6" x2="0" y2="32.6" stroke="url(#gl)" stroke-width="1.5"/>
+<line class="r" x1="763" y1="32.6" x2="840" y2="32.6" stroke="url(#gr)" stroke-width="1.5"/>
+<text class="t" x="98.6" y="42" font-size="26" font-weight="700" textLength="643" lengthAdjust="spacing">PROJETOS CORPORATIVOS EM DESTAQUE</text>
+</svg>

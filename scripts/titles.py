@@ -22,6 +22,7 @@ SECTIONS = [
     ("stack", 1, "Stack principal"),
     ("stack-outras", 2, "Também trabalho com"),
     ("projetos", 1, "Projetos pessoais em destaque"),
+    ("projetos-corporativos", 1, "Projetos corporativos em destaque"),
     ("estatisticas", 1, "Estatísticas GitHub"),
 ]
 
