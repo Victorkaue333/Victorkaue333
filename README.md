@@ -42,7 +42,7 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
 ## Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git&theme=dark" height="48" alt="Python, Django, FastAPI, PostgreSQL, Redis, Docker e Git" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nestjs,nodejs,tailwind,python,django,fastapi,postgres,redis,docker,git&theme=dark" height="48" alt="TypeScript, React, Next.js, NestJS, Node.js, Tailwind CSS, Python, Django, FastAPI, PostgreSQL, Redis, Docker e Git" />
 </p>
 
 ### Também trabalho com
