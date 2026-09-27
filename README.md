@@ -104,5 +104,5 @@ Desenvolvedor **Full Stack** com foco em **Python, Django e FastAPI**, construin
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="360" alt="" />
+  <img src="assets/footer.svg" width="100%" alt="Ambiente de trabalho de Victor Kauê: monitor vertical e monitor principal com barra de luz e webcam, microfone, controle, teclado mecânico, mouse e gabinete com a lateral de vidro, sobre uma mesa escura." />
 </p>
