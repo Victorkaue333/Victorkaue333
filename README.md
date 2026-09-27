@@ -76,14 +76,6 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-top-langs.svg" height="170" alt="Linguagens mais usadas por Victor Kauê" />
 </p>
 
-## Contato
-
-<p align="center">
-  <a href="mailto:kaue.alves.pg@gmail.com"><img src="https://img.shields.io/badge/kaue.alves.pg%40gmail.com-050505?style=for-the-badge&logo=gmail&logoColor=ff7a00" alt="E-mail: kaue.alves.pg@gmail.com" /></a>
-  <a href="https://www.linkedin.com/in/victor-kau%C3%AA"><img src="https://img.shields.io/badge/Victor%20Kau%C3%AA-050505?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmN2EwMCIgZD0iTTUgMmgxNGEzIDMgMCAwIDEgMyAzdjE0YTMgMyAwIDAgMS0zIDNINWEzIDMgMCAwIDEtMy0zVjVhMyAzIDAgMCAxIDMtM3ptMS42IDcuNHY4LjZoMi44VjkuNHpNOCA1LjJhMS42IDEuNiAwIDEgMCAwIDMuMiAxLjYgMS42IDAgMCAwIDAtMy4yem0zLjYgNC4yVjE4aDIuOHYtNC42YzAtMS4zLjYtMiAxLjYtMnMxLjQuNyAxLjQgMlYxOGgyLjh2LTUuM2MwLTIuNi0xLjQtMy41LTMuMS0zLjUtMS4zIDAtMi4yLjYtMi43IDEuNFY5LjR6Ii8%2BPC9zdmc%2B" alt="LinkedIn: Victor Kauê" /></a>
-  <a href="https://victor-kaue.vercel.app/"><img src="https://img.shields.io/badge/victor--kaue.vercel.app-050505?style=for-the-badge&logo=vercel&logoColor=ff7a00" alt="Portfólio: victor-kaue.vercel.app" /></a>
-</p>
-
 <br/>
 
 <p align="center">
