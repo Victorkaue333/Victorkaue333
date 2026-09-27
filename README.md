@@ -65,6 +65,7 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <a href="https://victor-kaue.vercel.app/"><img src="assets/projects/portfolio.svg" width="270" alt="Projeto 04 — Portfólio Web: meu site pessoal com projetos, estudos de caso, serviços e certificados, em 4 idiomas, com SEO técnico e foco em performance no mobile. TypeScript, React, Vite e Tailwind CSS. Acessar o site." /></a>
 </p>
 
+
 <p align="center">
   <a href="https://github.com/Victorkaue333?tab=repositories"><img src="https://img.shields.io/badge/Todos%20os%20reposit%C3%B3rios-050505?style=for-the-badge&logo=github&logoColor=ff7a00" alt="Ver todos os repositórios" /></a>
 </p>
@@ -77,9 +78,20 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <a href="https://www.ntidi.com.br/"><img src="assets/projects/ntidi.svg" width="270" alt="Projeto corporativo 03 — NTIDI: ecossistema web com site institucional, SEO técnico, painel Django customizado e sistemas internos de gestão de leads e processos. Python, Django, Bootstrap e Docker. Acessar o site." /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-activity.svg" width="100%" alt="Resumo de atividade dos últimos 12 meses: total de contribuições, dias ativos, melhor dia, dia da semana mais ativo, distribuição por mês e composição por tipo." />
 
 <img src="assets/titles/estatisticas.svg" alt="Estatísticas GitHub" />
+
+<!-- heatmap animado com dados reais: células surgem uma a uma (scripts/heatmap.py; o workflow regera e commita todo dia) -->
+<div align="center">
+
+<h3><code>victor@github ~ $ ./contributions.sh</code></h3>
+
+<img src="assets/contrib-heatmap.svg" width="100%" alt="Heatmap de contribuições de Victor Kauê nos últimos 12 meses, atualizado diariamente" />
+
+</div>
+
+
+<img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-activity.svg" width="100%" alt="Resumo de atividade dos últimos 12 meses: total de contribuições, dias ativos, melhor dia, dia da semana mais ativo, distribuição por mês e composição por tipo." />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-stats.svg" height="170" alt="Visão geral do GitHub de Victor Kauê" />
