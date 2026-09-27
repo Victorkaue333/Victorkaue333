@@ -95,3 +95,6 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Ambiente de trabalho de Victor Kauê: monitor vertical e monitor principal com barra de luz e webcam, microfone, controle, teclado mecânico, mouse e gabinete com a lateral de vidro, sobre uma mesa escura." />
 </p>
+
+<!-- HUD de rodapé: frase + "progresso salvo" com a data da última execução (scripts/checkpoint.py, branch output) -->
+<img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/checkpoint.svg" width="100%" alt="Mesmo no escuro, a gente segue em frente. Progresso salvo." />

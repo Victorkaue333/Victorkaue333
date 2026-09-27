@@ -62,6 +62,12 @@ jobs:
           GITHUB_LOGIN: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Rodapé com a frase e o "progresso salvo" com a data desta execução; vai para a branch output
+      # para a data mudar todo dia sem gerar commit na main.
+      - name: Checkpoint
+        continue-on-error: true
+        run: python3 scripts/checkpoint.py dist/checkpoint.svg
+
       # card_width=500: com os rótulos em pt-br, em 450 o anel do rank encosta nos valores.
       - name: GitHub stats card
         uses: stats-organization/github-readme-stats-action@v2
