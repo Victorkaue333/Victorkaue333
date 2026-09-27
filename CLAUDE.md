@@ -7,12 +7,12 @@ README de perfil do GitHub de **Victor Kauê** (`Victorkaue333`), dev back-end (
 - **Nunca** adicionar o Claude como co-autor: nada de `Co-Authored-By: Claude ...` em commits.
 - Nenhuma linha de atribuição ao Claude ("Generated with Claude Code" etc.) em commits nem em PRs.
 - Só commitar ou dar push quando o Victor pedir.
-- Antes de commitar o README, confira se o bloco `whoami` está lá. Edições fora daqui já o removeram várias vezes.
+- Antes de commitar o README, confira se os blocos `whoami` e `./contributions.sh` estão lá. Edições fora daqui já os removeram várias vezes.
 
 ## Estrutura
 
-- `README.md` — o perfil. Ordem: hero, badges, `whoami` (retrato + wordmark), 01 Sobre mim (+ 01.1 No que eu foco), 02 Stack principal (+ 02.1 Também trabalho com), 03 Projetos pessoais em destaque, card de atividade, 04 Estatísticas GitHub, frase do Cortella e rodapé com a foto do setup.
-  - O heatmap **não está no README** por escolha do Victor. O workflow continua gerando `assets/contrib-heatmap.svg`; para voltar a mostrar, basta um `<img src="assets/contrib-heatmap.svg" width="100%">`.
+- `README.md` — o perfil. Ordem: hero, badges, `whoami` (retrato + wordmark), Sobre mim (+ No que eu foco), Stack principal (+ Também trabalho com), Projetos pessoais em destaque (4 cards em grade 2 × 2), Projetos corporativos em destaque (3 em linha), `./contributions.sh` (heatmap), Estatísticas GitHub, frase do Cortella e rodapé com a foto do setup.
+  - Os cards têm `width="270"`. Com 4 numa seção, um `<br/>` depois do 2º monta a grade 2 × 2, porque 4 em linha estouram a largura do README.
 - `assets/` — SVGs **estáticos**, versionados na `main`:
   - `hero.svg` e `footer.svg` — banners de foto do **mesmo tamanho** (1200×404), gerados por `scripts/banners.py` a partir de `images/`. As fotos vão embutidas em base64 como WebP, com `mix-blend-mode: screen` para o preto sumir no fundo do card.
     - Hero: faixa das mãos da Criação de Adão (`images.webp`), de borda a borda, sem texto.
@@ -74,10 +74,19 @@ GITHUB_LOGIN=Victorkaue333 GITHUB_TOKEN=... python scripts/activity.py saida.svg
 - Sem `rembg`: o recorte do retrato usa GrabCut do OpenCV.
 - Para conferir um SVG visualmente: screenshot com Edge headless (`msedge --headless=new --screenshot=...`). Como as animações não avançam no screenshot, congele o estado final antes de capturar.
 
-## Projetos em destaque
+## Projetos pessoais em destaque
 
 1. **Sertão Conecta**: o repositório é **privado**, então o card aponta para a produção (<https://sertaoconecta.floresta.ifsertao-pe.edu.br>).
 2. **SuplaStock**: <https://github.com/Victorkaue333/SuplaStock>
 3. **AgendeAqui**: <https://github.com/Victorkaue333/AgendeAqui>
+4. **Portfólio Web**: <https://victor-kaue.vercel.app/> (repositório `Victorkaue333/my-portfolio-vk`: React, TypeScript, Vite, Tailwind, i18n em 4 idiomas). O painel do card reproduz o `developer.ts` da página Sobre.
 
 Clones locais ficam em `C:\Users\Victor Alves\Documents\GitHub\VICTORKAUE\`, que é a fonte para stack e descrições.
+
+## Projetos corporativos em destaque
+
+Mesmo template dos cards pessoais. O cabeçalho mostra a empresa no lugar do repositório.
+
+1. **Caji Agent** (Caji Solutions): <https://www.cajiagent.com/>. Clone em `GitHub\CajiSolutions\CajiAgent`.
+2. **VA Suplementos** (VK Software, cliente): o repositório `vksoftware-infra/VA-Suplementos` é **privado**, então o card aponta para <https://victor-kaue.vercel.app/projetos>. Clone em `GitHub\VK SOFTWARE\VA-Suplementos`.
+3. **NTIDI**: <https://www.ntidi.com.br/>. O estudo de caso está no portfólio, em `/projetos/ntidi`.
