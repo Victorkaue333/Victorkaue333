@@ -1,0 +1,4 @@
+# só para scripts/whoami.py (roda local); activity.py e heatmap.py usam só a biblioteca padrão
+numpy
+opencv-python-headless
+Pillow
