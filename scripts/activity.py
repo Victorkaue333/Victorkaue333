@@ -123,7 +123,7 @@ def render(data: dict, today: dt.date) -> str:
         return f"{int(d)} {MONTHS[int(m) - 1]} {y}"
 
     kpis = [
-        ("CONTRIBUIÇÕES", num(total), "ÚLTIMOS 12 MESES", ACCENT),
+        ("CONTRIBUIÇÕES", num(total), "ÚLTIMOS 12 MESES", TEXT),
         ("DIAS ATIVOS", num(active), f"{round(100 * active / max(1, len(days)))}% DO PERÍODO", TEXT),
         ("MELHOR DIA", num(best_count) if best_count else "—",
          fmt_date(best_date) if best_count else "SEM REGISTROS", TEXT),
