@@ -12,8 +12,6 @@
 <!-- retrato ASCII (digita linha a linha) + wordmark 3D em ASCII (balança): python scripts/whoami.py -->
 <div align="center">
 
-<h3><code>victor@github ~ $ whoami</code></h3>
-
 <table>
   <tr>
     <td valign="top"><img src="assets/portrait.svg" width="400" alt="Victor Kauê — retrato em ASCII" /></td>
