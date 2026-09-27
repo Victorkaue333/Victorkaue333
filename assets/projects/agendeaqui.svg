@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="680" viewBox="0 0 520 680" role="img" aria-label="Projeto 03 — AgendeAqui">
+<title>Projeto 03 — AgendeAqui</title>
+<desc>Sistema em Django para agendamento de salas e laboratórios, com checagem de conflitos, aprovação por perfil e avisos por e-mail com Celery.</desc>
+<defs>
+  <clipPath id="c-clip"><rect width="520" height="680" rx="22"/></clipPath>
+  <pattern id="c-dots" width="18" height="18" patternUnits="userSpaceOnUse">
+    <circle cx="9" cy="9" r=".9" fill="#222222"/>
+  </pattern>
+</defs>
+<g clip-path="url(#c-clip)" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+<rect width="520" height="680" fill="#1a1a1a"/>
+<text x="36" y="62" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#ff7a00" letter-spacing="3">03</text><line x1="76" y1="57" x2="387" y2="57" stroke="#222222"/><text x="484" y="62" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#808080" letter-spacing="1">AgendeAqui</text>
+<rect x="36" y="88" width="448" height="150" rx="14" fill="#050505"/><rect x="36" y="88" width="448" height="150" rx="14" fill="url(#c-dots)"/><text x="60" y="118" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#808080" letter-spacing="2.5">SALAS · AGENDA · APROVAÇÃO</text>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1.5" text-anchor="middle" fill="#808080">
+<text x="96" y="144">SEG</text><text x="178" y="144">TER</text><text x="260" y="144">QUA</text><text x="342" y="144">QUI</text><text x="424" y="144">SEX</text>
+</g>
+<rect x="60" y="152" width="72" height="18" rx="4" fill="#222222"/>
+<rect x="60.5" y="175.5" width="71" height="17" rx="4" fill="none" stroke="#222222"/>
+<rect x="60" y="198" width="72" height="18" rx="4" fill="#222222"/>
+<rect x="142.5" y="152.5" width="71" height="17" rx="4" fill="none" stroke="#222222"/>
+<rect x="142" y="175" width="72" height="18" rx="4" fill="#808080"/>
+<rect x="142" y="198" width="72" height="18" rx="4" fill="#222222"/>
+<rect x="224" y="152" width="72" height="18" rx="4" fill="#ff7a00"/>
+<rect x="224" y="175" width="72" height="18" rx="4" fill="#222222"/>
+<rect x="224.5" y="198.5" width="71" height="17" rx="4" fill="none" stroke="#222222"/>
+<rect x="306" y="152" width="72" height="18" rx="4" fill="#222222"/>
+<rect x="306.5" y="175.5" width="71" height="17" rx="4" fill="none" stroke="#222222"/>
+<rect x="306.75" y="198.75" width="70.5" height="16.5" rx="4" fill="none" stroke="#ff7a00" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="388.5" y="152.5" width="71" height="17" rx="4" fill="none" stroke="#222222"/>
+<rect x="388" y="175" width="72" height="18" rx="4" fill="#222222"/>
+<rect x="388" y="198" width="72" height="18" rx="4" fill="#222222"/>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1" text-anchor="middle">
+<text x="260" y="164.5" fill="#050505">LAB 02</text><text x="342" y="210.5" fill="#ff7a00">PENDENTE</text>
+</g><rect x="36.5" y="88.5" width="447" height="149" rx="14" fill="none" stroke="#222222"/>
+<text x="35" y="300" font-size="40" font-weight="700" fill="#ffffff" letter-spacing="-.8">AgendeAqui</text>
+<text x="36" y="348" font-size="23" fill="#808080">Sistema em Django para agendamento</text><text x="36" y="381" font-size="23" fill="#808080">de salas e laboratórios, com checagem</text><text x="36" y="414" font-size="23" fill="#808080">de conflitos, aprovação por perfil e</text><text x="36" y="447" font-size="23" fill="#808080">avisos por e-mail com Celery.</text>
+<rect x="36.0" y="548" width="90.3" height="34" rx="17.0" fill="#050505" stroke="#cc6200"/><text x="81.1" y="570" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#ff7a00" letter-spacing="1.2">PYTHON</text><rect x="136.3" y="548" width="90.3" height="34" rx="17.0" fill="#050505" stroke="#222222"/><text x="181.4" y="570" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#ffffff" letter-spacing="1.2">DJANGO</text><rect x="236.6" y="548" width="90.3" height="34" rx="17.0" fill="#050505" stroke="#222222"/><text x="281.8" y="570" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#ffffff" letter-spacing="1.2">CELERY</text><rect x="336.9" y="548" width="80.2" height="34" rx="17.0" fill="#050505" stroke="#222222"/><text x="377.0" y="570" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#ffffff" letter-spacing="1.2">REDIS</text>
+<line x1="36" y1="588" x2="484" y2="588" stroke="#222222" opacity=".7"/><rect x="36" y="604" width="448" height="48" rx="12" fill="#050505" stroke="#222222"/><text x="58" y="635" font-size="18" font-weight="600" fill="#ffffff">Ver repositório no GitHub</text><path d="M450 634l10-10m-7 0h7v7" fill="none" stroke="#ff7a00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<rect x=".5" y=".5" width="519" height="679" rx="22" fill="none" stroke="#222222"/>
+</svg>
