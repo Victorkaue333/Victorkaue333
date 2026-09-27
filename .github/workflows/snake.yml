@@ -62,12 +62,13 @@ jobs:
           GITHUB_LOGIN: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # card_width=500: com os rótulos em pt-br, em 450 o anel do rank encosta nos valores.
       - name: GitHub stats card
         uses: stats-organization/github-readme-stats-action@v2
         continue-on-error: true
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&locale=pt-br&bg_color=050505&title_color=ffffff&text_color=cccccc&icon_color=ff7a00&ring_color=ff7a00&border_radius=10&card_width=450
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&locale=pt-br&bg_color=050505&title_color=ffffff&text_color=cccccc&icon_color=ff7a00&ring_color=ff7a00&border_radius=10&card_width=500
           path: dist/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
