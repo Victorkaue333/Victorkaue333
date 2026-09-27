@@ -33,11 +33,6 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
 - **APIs**: APIs REST com foco em performance, integração e manutenção de longo prazo.
 - **Sistemas empresariais**: entrega de ponta a ponta, do planejamento ao deploy em produção com Docker, Nginx, Gunicorn e GitHub Actions.
 
-<p align="center"><sub>11 projetos publicados · 10 empresas e instituições · Itacuruba, PE</sub></p>
-
-<p align="center">
-  <a href="https://victor-kaue.vercel.app/"><img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-ff7a00?style=for-the-badge&logo=vercel&logoColor=050505" alt="Ver portfólio" /></a>
-</p>
 
 <img src="assets/titles/stack.svg" alt="Stack principal" />
 
