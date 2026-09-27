@@ -9,6 +9,8 @@
 <img src="https://komarev.com/ghpvc/?username=Victorkaue333&label=Profile+Views&color=b35500&style=for-the-badge" alt="Visualizações do perfil" />
 </p>
 
+<img src="assets/titles/sobre-mim.svg" alt="Sobre mim" />
+
 <!-- retrato ASCII (digita linha a linha) + wordmark 3D em ASCII (balança): python scripts/whoami.py -->
 <div align="center">
 
@@ -20,8 +22,6 @@
 </table>
 
 </div>
-
-<img src="assets/titles/sobre-mim.svg" alt="Sobre mim" />
 
 Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou formado em Desenvolvimento de Sistemas e estou me graduando em Gestão da Tecnologia da Informação no IF Sertão-PE. Trabalho com APIs, regras de negócio, modelagem de dados, interface web e deploy, com atenção a arquitetura limpa, segurança e valor de negócio.
 
