@@ -20,7 +20,7 @@ README de perfil do GitHub de **Victor Kauê** (`Victorkaue333`), dev back-end (
   - `portrait.svg`, `wordmark.svg` — gerados por `scripts/whoami.py`.
   - `contrib-heatmap.svg` — **gerado**: o workflow regera e commita todo dia. Não editar à mão.
   - `projects/*.svg` — cards de projeto, 520×680, feitos à mão seguindo o mesmo template.
-  - `titles/*.svg` — títulos numerados das seções (número laranja, linha fina que se desenha ao carregar, nome em mono caixa alta). Subtítulos usam número com ponto (`01.1`) e saem menores. Os SVGs têm 840 px de largura e entram no README **sem** `width`, então ficam 1:1 no desktop e só encolhem em tela estreita. Gerados por `scripts/titles.py`: para mudar ou adicionar uma seção, edite a lista `SECTIONS` e rode o script de novo.
+  - `titles/*.svg` — títulos das seções, **sem numeração**, centralizados entre duas linhas que somem nas bordas (`──── ESTATÍSTICAS GITHUB ────`), nome em mono caixa alta. As linhas crescem do título para fora ao carregar, mas o estado final fica visível mesmo sem animação. Subtítulos (nível 2 em `SECTIONS`) saem menores. Os SVGs têm 840 px de largura e entram no README **sem** `width`, então ficam 1:1 no desktop e só encolhem em tela estreita. Gerados por `scripts/titles.py`: para mudar ou adicionar uma seção, edite a lista `SECTIONS` e rode o script de novo.
 - `images/` — fotos-fonte em WebP (`images.webp` → hero, `ambiente-de-trabalho.webp` 1200×1200 → rodapé). O README não aponta para elas: só os banners gerados. Salve fotos novas como WebP e rode `scripts/banners.py`.
 - `scripts/` — geradores em Python:
   - `activity.py` — card de atividade; define os tokens de cor/fonte que os outros scripts importam. Só biblioteca padrão.
