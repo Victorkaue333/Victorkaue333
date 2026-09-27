@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="24" viewBox="0 0 600 24" role="img" aria-label="Detalhe gráfico de encerramento">
+<title>Detalhe gráfico de encerramento</title>
+<desc>Linha fina com um marcador verde central.</desc>
+<defs>
+  <linearGradient id="f-line" x1="0" x2="1">
+    <stop offset="0" stop-color="#222222" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#222222" stop-opacity="1"/>
+    <stop offset="1" stop-color="#222222" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x="40" y="11.5" width="520" height="1" fill="url(#f-line)"/>
+<g transform="rotate(45 300 12)"><rect x="296" y="8" width="8" height="8" rx="1" fill="#0a0a0a" stroke="#ff7a00" stroke-width="1.5"/></g>
+<rect x="298.5" y="10.5" width="3" height="3" fill="#ff7a00" transform="rotate(45 300 12)"/>
+</svg>
