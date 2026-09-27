@@ -65,19 +65,6 @@ Desenvolvedor **Full Stack** com foco em **Python, Django e FastAPI**, construin
   <a href="https://github.com/Victorkaue333?tab=repositories"><img src="https://img.shields.io/badge/Todos%20os%20reposit%C3%B3rios-050505?style=for-the-badge&logo=github&logoColor=ff7a00" alt="Ver todos os repositórios" /></a>
 </p>
 
-<!-- heatmap animado com dados reais: células surgem uma a uma (scripts/heatmap.py, regerado todo dia pelo workflow) -->
-<div align="center">
-
-<h3><code>victor@github ~ $ ./contributions.sh</code></h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-heatmap-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-heatmap.svg" />
-  <img alt="Heatmap de contribuições de Victor Kauê nos últimos 12 meses, atualizado diariamente" src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-heatmap-dark.svg" width="100%" />
-</picture>
-
-</div>
-
 <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-activity.svg" width="100%" alt="Resumo de atividade dos últimos 12 meses: total de contribuições, dias ativos, melhor dia, dia da semana mais ativo, distribuição por mês e composição por tipo." />
 
 ## Estatísticas GitHub
