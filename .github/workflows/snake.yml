@@ -1,8 +1,9 @@
 name: Profile assets
 
-# Gera o heatmap de contribuições (scripts/heatmap.py), o card de atividade (scripts/activity.py)
-# e os cards de estatísticas (github-readme-stats) e publica tudo na branch `output`.
-# O README referencia os arquivos via raw.githubusercontent.com/.../output/.
+# Regera o heatmap de contribuições (scripts/heatmap.py) e o commita na própria main, junto com o
+# snapshot data/contributions.json; o README usa o caminho relativo assets/contrib-heatmap.svg.
+# O card de atividade (scripts/activity.py) e os cards de estatísticas (github-readme-stats) vão
+# para a branch `output`, referenciados via raw.githubusercontent.com/.../output/.
 
 on:
   schedule:
@@ -39,12 +40,20 @@ jobs:
       - name: Clean restored checkout
         run: rm -rf dist/.git
 
+      # Se a API falhar, o script redesenha a partir do snapshot e o commit abaixo não muda nada.
       - name: Contribution heatmap
         continue-on-error: true
-        run: python3 scripts/heatmap.py dist/github-heatmap.svg dist/github-heatmap-dark.svg
+        run: python3 scripts/heatmap.py
         env:
           GITHUB_LOGIN: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Commits feitos com o GITHUB_TOKEN não disparam outro workflow; o [skip ci] é redundância.
+      - name: Commit heatmap
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: atualiza heatmap de contribuições [skip ci]"
+          file_pattern: "assets/contrib-heatmap.svg data/contributions.json"
 
       - name: Activity card
         continue-on-error: true
