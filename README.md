@@ -77,8 +77,6 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
 <!-- heatmap animado com dados reais: células surgem uma a uma (scripts/heatmap.py; o workflow regera e commita todo dia) -->
 <div align="center">
 
-<h3><code>victor@github ~ $ ./contributions.sh</code></h3>
-
 <img src="assets/contrib-heatmap.svg" width="100%" alt="Heatmap de contribuições de Victor Kauê nos últimos 12 meses, atualizado diariamente" />
 
 </div>
