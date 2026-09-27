@@ -11,7 +11,7 @@ README de perfil do GitHub de **Victor Kauê** (`Victorkaue333`), dev back-end (
 
 ## Estrutura
 
-- `README.md` — o perfil. Ordem: hero, badges, `whoami` (retrato + wordmark), Sobre mim (+ No que eu foco), Stack principal (+ Também trabalho com), Projetos pessoais em destaque (4 cards em grade 2 × 2), Projetos corporativos em destaque (3 em linha), Estatísticas GitHub (título → `./contributions.sh` com o heatmap → card de atividade → cards de stats e linguagens), frase do Cortella e rodapé com a foto do setup.
+- `README.md` — o perfil. Ordem: hero, badges, `whoami` (retrato + wordmark), Sobre mim (+ No que eu foco), Stack principal (+ Também trabalho com), Projetos pessoais em destaque (4 cards em grade 2 × 2), Projetos corporativos em destaque (3 em linha), Estatísticas GitHub (título → `./contributions.sh` com o heatmap → card de atividade → cards de stats e linguagens), frase do Cortella, rodapé com a foto do setup e o HUD de rodapé (frase + "progresso salvo").
   - Os cards têm `width="270"`. Com 4 numa seção, um `<br/>` depois do 2º monta a grade 2 × 2, porque 4 em linha estouram a largura do README.
 - `assets/` — SVGs **estáticos**, versionados na `main`:
   - `hero.svg` e `footer.svg` — banners de foto do **mesmo tamanho** (1200×404), gerados por `scripts/banners.py` a partir de `images/`. As fotos vão embutidas em base64 como WebP, com `mix-blend-mode: screen` para o preto sumir no fundo do card.
@@ -25,10 +25,11 @@ README de perfil do GitHub de **Victor Kauê** (`Victorkaue333`), dev back-end (
 - `scripts/` — geradores em Python:
   - `activity.py` — card de atividade; define os tokens de cor/fonte que os outros scripts importam. Só biblioteca padrão.
   - `heatmap.py` — heatmap de contribuições animado → `assets/contrib-heatmap.svg`, um arquivo só com os dois temas (`@media prefers-color-scheme` dentro do SVG). Com token, busca via GraphQL (`fetch()` do `activity.py`) e salva o snapshot `data/contributions.json`; sem token, ou se a API falhar, redesenha a partir do snapshot. Só biblioteca padrão.
+  - `checkpoint.py` — HUD de rodapé: à esquerda uma frase curta que lembra os jogos favoritos do Victor (The Last of Us, RDR2) sem citá-los; à direita um ícone de salvamento girando e "PROGRESSO SALVO · <data de Brasília>". Roda no Actions e vai para a `output`, então a data muda todo dia sem commit na `main`. Só biblioteca padrão. Nada de logos ou artes dos jogos (são marcas registradas).
   - `whoami.py` — retrato ASCII (a partir do avatar do GitHub) + wordmark 3D "VK". Roda **local**, precisa de `scripts/requirements.txt`.
 - `.github/workflows/snake.yml` — o nome é histórico (a cobra foi removida). Roda todo dia e em push na `main`:
   - regera o heatmap e **commita na `main`** (`assets/contrib-heatmap.svg` + `data/contributions.json`, mensagem com `[skip ci]`). Como o bot commita na `main`, é preciso dar pull antes de fazer push local;
-  - gera o card de atividade e os cards do github-readme-stats e publica na branch **`output`**. O README aponta para `raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/...`.
+  - gera o card de atividade, o `checkpoint.svg` e os cards do github-readme-stats e publica na branch **`output`**. O README aponta para `raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/...`.
 
 ## Design system
 
