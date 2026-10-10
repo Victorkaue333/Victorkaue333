@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="44" viewBox="0 0 840 44" role="img" aria-label="Mesmo no escuro, a gente segue em frente. Progresso salvo em 10 out 2026.">
+<title>Mesmo no escuro, a gente segue em frente. Progresso salvo em 10 out 2026.</title>
+<style>
+.p { fill: #808080; } .l { fill: #808080; } .d { fill: #ffffff; } .k { stroke: #333333; }
+@media (prefers-color-scheme: light) { .p, .l { fill: #57606a; } .d { fill: #1f2328; } .k { stroke: #d0d7de; } }
+</style>
+<text class="p" x="2" y="27" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-style="italic">Mesmo no escuro, a gente segue em frente.</text>
+<g>
+  <circle class="k" cx="555.2" cy="22.5" r="7" fill="none" stroke-width="2"/>
+  <path d="M555.2 15.5a7 7 0 0 1 7 7" fill="none" stroke="#ff7a00" stroke-width="2" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" from="0 555.2 22.5" to="360 555.2 22.5" dur="1.2s" repeatCount="indefinite"/>
+  </path>
+  <animate attributeName="opacity" values="1;.35;1" dur="1.6s" repeatCount="indefinite"/>
+</g>
+<text x="573.2" y="27" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" textLength="265" lengthAdjust="spacing"><tspan class="l">PROGRESSO SALVO · </tspan><tspan class="d" font-weight="700">10 OUT 2026</tspan></text>
+</svg>
