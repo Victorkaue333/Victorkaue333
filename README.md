@@ -72,7 +72,6 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-stats.svg" height="170" alt="Visão geral do GitHub de Victor Kauê" />
-  <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-top-langs.svg" height="170" alt="Linguagens mais usadas por Victor Kauê" />
 </p>
 
 <br/>
