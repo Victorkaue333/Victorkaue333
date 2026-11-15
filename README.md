@@ -58,6 +58,8 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <a href="https://github.com/Victorkaue333?tab=repositories"><img src="https://img.shields.io/badge/Todos%20os%20reposit%C3%B3rios-050505?style=for-the-badge&logo=github&logoColor=ff7a00" alt="Ver todos os repositórios" /></a>
 </p>
 
+
+<!-- Estatísticas do Github -->
 <img src="assets/titles/projetos-corporativos.svg" alt="Projetos corporativos em destaque" />
 
 <p align="center">
@@ -77,6 +79,8 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
 </div>
 
 
+
+<!-- Estatísticas do Github -->
 <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-activity.svg" width="100%" alt="Resumo de atividade dos últimos 12 meses: total de contribuições, dias ativos, melhor dia, dia da semana mais ativo, distribuição por mês e composição por tipo." />
 
 <p align="center">
