@@ -43,6 +43,8 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <img src="https://skillicons.dev/icons?i=firebase,sentry,githubactions,netlify,vercel&theme=dark" height="48" alt="Firebase, Sentry, GitHub Actions, Netlify e Vercel" />  <img src="assets/playwright.svg" width="48" height="48" alt="Playwright" />
 </p>
 
+
+<!-- Projestos pessoais -->
 <img src="assets/titles/projetos.svg" alt="Projetos pessoais em destaque" />
 
 <p align="center">
@@ -51,21 +53,6 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <br/>
   <a href="https://github.com/Victorkaue333/AgendeAqui"><img src="assets/projects/agendeaqui.svg" width="270" alt="Projeto 03 — AgendeAqui: sistema em Django para agendamento de salas e laboratórios, com checagem de conflitos, aprovação e avisos por e-mail. Python, Django, Celery e Redis. Abrir repositório no GitHub." /></a>
   <a href="https://victor-kaue.vercel.app/"><img src="assets/projects/portfolio.svg" width="270" alt="Projeto 04 — Portfólio Web: meu site pessoal com projetos, estudos de caso, serviços e certificados, em 4 idiomas, com SEO técnico e foco em performance no mobile. TypeScript, React, Vite e Tailwind CSS. Acessar o site." /></a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/Victorkaue333?tab=repositories"><img src="https://img.shields.io/badge/Todos%20os%20reposit%C3%B3rios-050505?style=for-the-badge&logo=github&logoColor=ff7a00" alt="Ver todos os repositórios" /></a>
-</p>
-
-
-<!-- Estatísticas do Github -->
-<img src="assets/titles/projetos-corporativos.svg" alt="Projetos corporativos em destaque" />
-
-<p align="center">
-  <a href="https://www.cajiagent.com/"><img src="assets/projects/caji-agent.svg" width="270" alt="Projeto corporativo 01 — Caji Agent (Caji Solutions): agentes de IA que atendem, vendem e agendam no WhatsApp e no Instagram, com CRM Kanban, links de pagamento e follow-up automático. Node.js, React, FastAPI e Gemini. Acessar o site." /></a>
-  <a href="https://victor-kaue.vercel.app/projetos"><img src="assets/projects/va-suplementos.svg" width="270" alt="Projeto corporativo 02 — VA Suplementos (VK Software): sistema de gestão sob medida para uma loja de suplementos, com estoque, vendas, fiado, fluxo de caixa, nota fiscal e relatórios. Python, Django, PostgreSQL e Nginx. Ver no portfólio." /></a>
-  <a href="https://www.ntidi.com.br/"><img src="assets/projects/ntidi.svg" width="270" alt="Projeto corporativo 03 — NTIDI: ecossistema web com site institucional, SEO técnico, painel Django customizado e sistemas internos de gestão de leads e processos. Python, Django, Bootstrap e Docker. Acessar o site." /></a>
 </p>
 
 
