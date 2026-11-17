@@ -12,11 +12,8 @@
 <img src="assets/titles/sobre-mim.svg" alt="Sobre mim" />
 
 <!-- retrato ASCII (digita linha a linha) + wordmark 3D em ASCII (balança): python scripts/whoami.py -->
+
 <div align="center">
-
-<img src="assets/whoami.svg" width="100%" alt="Victor Kauê — retrato em ASCII e wordmark VK em 3D" />
-
-</div>
 
 Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou formado em Desenvolvimento de Sistemas e estou me graduando em Gestão da Tecnologia da Informação no IF Sertão-PE. Trabalho com APIs, regras de negócio, modelagem de dados, interface web e deploy, com atenção a arquitetura limpa, segurança e valor de negócio.
 
@@ -25,7 +22,6 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
 - **Backend**: regras de negócio consistentes, autenticação segura e modelagem de dados pensada para escalar.
 - **APIs**: APIs REST com foco em performance, integração e manutenção de longo prazo.
 - **Sistemas empresariais**: entrega de ponta a ponta, do planejamento ao deploy em produção com Docker, Nginx, Gunicorn e GitHub Actions.
-
 
 <img src="assets/titles/stack.svg" alt="Stack principal" />
 
@@ -43,8 +39,8 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <img src="https://skillicons.dev/icons?i=firebase,sentry,githubactions,netlify,vercel&theme=dark" height="48" alt="Firebase, Sentry, GitHub Actions, Netlify e Vercel" />  <img src="assets/playwright.svg" width="48" height="48" alt="Playwright" />
 </p>
 
-
 <!-- Projestos pessoais -->
+
 <img src="assets/titles/projetos.svg" alt="Projetos pessoais em destaque" />
 
 <p align="center">
@@ -55,20 +51,13 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <a href="https://victor-kaue.vercel.app/"><img src="assets/projects/portfolio.svg" width="270" alt="Projeto 04 — Portfólio Web: meu site pessoal com projetos, estudos de caso, serviços e certificados, em 4 idiomas, com SEO técnico e foco em performance no mobile. TypeScript, React, Vite e Tailwind CSS. Acessar o site." /></a>
 </p>
 
-
 <img src="assets/titles/estatisticas.svg" alt="Estatísticas GitHub" />
 
 <!-- heatmap animado com dados reais: células surgem uma a uma (scripts/heatmap.py; o workflow regera e commita todo dia) -->
+
 <div align="center">
 
-<img src="assets/contrib-heatmap.svg" width="100%" alt="Heatmap de contribuições de Victor Kauê nos últimos 12 meses, atualizado diariamente" />
-
-</div>
-
-
-
 <!-- Estatísticas do Github -->
-<img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-activity.svg" width="100%" alt="Resumo de atividade dos últimos 12 meses: total de contribuições, dias ativos, melhor dia, dia da semana mais ativo, distribuição por mês e composição por tipo." />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-stats.svg" height="170" alt="Visão geral do GitHub de Victor Kauê" />
@@ -87,4 +76,5 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
 </p>
 
 <!-- HUD de rodapé: frase + "progresso salvo" com a data da última execução (scripts/checkpoint.py, branch output) -->
+
 <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/checkpoint.svg" width="100%" alt="Mesmo no escuro, a gente segue em frente. Progresso salvo." />
