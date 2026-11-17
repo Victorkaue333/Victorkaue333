@@ -12,8 +12,11 @@
 <img src="assets/titles/sobre-mim.svg" alt="Sobre mim" />
 
 <!-- retrato ASCII (digita linha a linha) + wordmark 3D em ASCII (balança): python scripts/whoami.py -->
-
 <div align="center">
+
+<img src="assets/whoami.svg" width="100%" alt="Victor Kauê — retrato em ASCII e wordmark VK em 3D" />
+
+</div>
 
 Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou formado em Desenvolvimento de Sistemas e estou me graduando em Gestão da Tecnologia da Informação no IF Sertão-PE. Trabalho com APIs, regras de negócio, modelagem de dados, interface web e deploy, com atenção a arquitetura limpa, segurança e valor de negócio.
 
@@ -51,13 +54,25 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <a href="https://victor-kaue.vercel.app/"><img src="assets/projects/portfolio.svg" width="270" alt="Projeto 04 — Portfólio Web: meu site pessoal com projetos, estudos de caso, serviços e certificados, em 4 idiomas, com SEO técnico e foco em performance no mobile. TypeScript, React, Vite e Tailwind CSS. Acessar o site." /></a>
 </p>
 
+<img src="assets/titles/projetos-corporativos.svg" alt="Projetos corporativos em destaque" />
+
+<p align="center">
+  <a href="https://www.cajiagent.com/"><img src="assets/projects/caji-agent.svg" width="270" alt="Projeto corporativo 01 — Caji Agent (Caji Solutions): agentes de IA que atendem, vendem e agendam no WhatsApp e no Instagram, com CRM Kanban, links de pagamento e follow-up automático. Node.js, React, FastAPI e Gemini. Acessar o site." /></a>
+  <a href="https://victor-kaue.vercel.app/projetos"><img src="assets/projects/va-suplementos.svg" width="270" alt="Projeto corporativo 02 — VA Suplementos (VK Software): sistema de gestão sob medida para uma loja de suplementos, com estoque, vendas, fiado, fluxo de caixa, nota fiscal e relatórios. Python, Django, PostgreSQL e Nginx. Ver no portfólio." /></a>
+  <a href="https://www.ntidi.com.br/"><img src="assets/projects/ntidi.svg" width="270" alt="Projeto corporativo 03 — NTIDI: ecossistema web com site institucional, SEO técnico, painel Django customizado e sistemas internos de gestão de leads e processos. Python, Django, Bootstrap e Docker. Acessar o site." /></a>
+</p>
+
 <img src="assets/titles/estatisticas.svg" alt="Estatísticas GitHub" />
 
 <!-- heatmap animado com dados reais: células surgem uma a uma (scripts/heatmap.py; o workflow regera e commita todo dia) -->
-
 <div align="center">
 
+<img src="assets/contrib-heatmap.svg" width="100%" alt="Heatmap de contribuições de Victor Kauê nos últimos 12 meses, atualizado diariamente" />
+
+</div>
+
 <!-- Estatísticas do Github -->
+<img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-activity.svg" width="100%" alt="Resumo de atividade dos últimos 12 meses: total de contribuições, dias ativos, melhor dia, dia da semana mais ativo, distribuição por mês e composição por tipo." />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-stats.svg" height="170" alt="Visão geral do GitHub de Victor Kauê" />
