@@ -1,5 +1,7 @@
 <div align="center">
   <img src="assets/hero.svg" width="100%" alt="Victor Kauê — mãos da Criação de Adão" />
+  <!-- frases digitando: python scripts/typing.py -->
+  <img src="assets/typing.svg" alt="Backend com Python, Django e FastAPI · APIs REST pensadas para durar · Do modelo de dados ao deploy em produção · Sistemas web que resolvem problema de negócio" />
 </div>
 
 <p align="center">
@@ -48,7 +50,6 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
   <a href="https://github.com/Victorkaue333/SuplaStock"><img src="assets/projects/suplastock.svg" width="270" alt="Projeto 02 — SuplaStock: sistema web em Django para gestão de loja de suplementos. Python, Django, PostgreSQL e Nginx. Abrir repositório no GitHub." /></a>
   <br/>
   <a href="https://github.com/Victorkaue333/AgendeAqui"><img src="assets/projects/agendeaqui.svg" width="270" alt="Projeto 03 — AgendeAqui: sistema em Django para agendamento de salas e laboratórios, com checagem de conflitos, aprovação e avisos por e-mail. Python, Django, Celery e Redis. Abrir repositório no GitHub." /></a>
-  <a href="https://victor-kaue.vercel.app/"><img src="assets/projects/portfolio.svg" width="270" alt="Projeto 04 — Portfólio Web: meu site pessoal com projetos, estudos de caso, serviços e certificados, em 4 idiomas, com SEO técnico e foco em performance no mobile. TypeScript, React, Vite e Tailwind CSS. Acessar o site." /></a>
 </p>
 
 <img src="assets/titles/projetos-corporativos.svg" alt="Projetos corporativos em destaque" />
@@ -62,8 +63,11 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
 <img src="assets/titles/estatisticas.svg" alt="Estatísticas GitHub" />
 
 <!-- heatmap animado com dados reais: células surgem uma a uma (scripts/heatmap.py; o workflow regera e commita todo dia) -->
-
 <div align="center">
+
+<img src="assets/contrib-heatmap.svg" width="100%" alt="Heatmap de contribuições de Victor Kauê nos últimos 12 meses, atualizado diariamente" />
+
+</div>
 
 <!-- Estatísticas do Github -->
 
