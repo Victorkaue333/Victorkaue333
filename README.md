@@ -12,11 +12,8 @@
 <img src="assets/titles/sobre-mim.svg" alt="Sobre mim" />
 
 <!-- retrato ASCII (digita linha a linha) + wordmark 3D em ASCII (balança): python scripts/whoami.py -->
+
 <div align="center">
-
-<img src="assets/whoami.svg" width="100%" alt="Victor Kauê — retrato em ASCII e wordmark VK em 3D" />
-
-</div>
 
 Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou formado em Desenvolvimento de Sistemas e estou me graduando em Gestão da Tecnologia da Informação no IF Sertão-PE. Trabalho com APIs, regras de negócio, modelagem de dados, interface web e deploy, com atenção a arquitetura limpa, segurança e valor de negócio.
 
@@ -65,14 +62,10 @@ Sou desenvolvedor **Full Stack** com foco em **backend e sistemas web**. Sou for
 <img src="assets/titles/estatisticas.svg" alt="Estatísticas GitHub" />
 
 <!-- heatmap animado com dados reais: células surgem uma a uma (scripts/heatmap.py; o workflow regera e commita todo dia) -->
+
 <div align="center">
 
-<img src="assets/contrib-heatmap.svg" width="100%" alt="Heatmap de contribuições de Victor Kauê nos últimos 12 meses, atualizado diariamente" />
-
-</div>
-
 <!-- Estatísticas do Github -->
-<img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-activity.svg" width="100%" alt="Resumo de atividade dos últimos 12 meses: total de contribuições, dias ativos, melhor dia, dia da semana mais ativo, distribuição por mês e composição por tipo." />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Victorkaue333/Victorkaue333/output/github-stats.svg" height="170" alt="Visão geral do GitHub de Victor Kauê" />
